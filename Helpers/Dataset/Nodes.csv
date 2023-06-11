@@ -9,12 +9,12 @@ organization,Unknown,185040354
 company,Rio Isla,Faroe Islands Shrimp Shark
 organization,Unknown,341411
 organization,Unknown,21323516
-nan,Unknown,âvictimâ
-nan,Unknown,âperpetratorâ
+Uncategorized,Unknown,âvictimâ
+Uncategorized,Unknown,âperpetratorâ
 organization,Unknown,8561
 person,Country_271835,William Bradley
 person,Country_271835,Joseph Griffin
-nan,Unknown,âŠâ
+Uncategorized,Unknown,âŠâ
 organization,Unknown,853949688
 organization,Unknown,650512
 organization,Unknown,8
@@ -24,11 +24,11 @@ person,Country_789455,Jacob Caldwell
 organization,Unknown,14253815
 location,Unknown,4369922c-ce1d-40ff-904c-1f6a3000bf6b
 company,Country_271835,Saltwater Solitude GmbH & Co. KG
-nan,Unknown,PRK
-nan,Unknown,âVikingâ
+Uncategorized,Unknown,PRK
+Uncategorized,Unknown,âVikingâ
 organization,Unknown,506
 organization,Unknown,4937447
-nan,Unknown,âregularâ
+Uncategorized,Unknown,âregularâ
 organization,Unknown,2079436
 person,Osterivaria,Ann Daniels
 person,Osterivaria,Stephanie Mccormick MD
@@ -80,13 +80,13 @@ organization,Unknown,3506021
 political_organization,Unknown,348079
 political_organization,Unknown,78
 organization,Unknown,95
-nan,Unknown,â8â
-nan,Unknown,ârefer
-nan,Unknown,â10â
+Uncategorized,Unknown,â8â
+Uncategorized,Unknown,ârefer
+Uncategorized,Unknown,â10â
 person,Country_271835,Alyssa Huffman
 organization,Unknown,245
 organization,Unknown,300668979
-nan,Unknown,âNoticesââ
+Uncategorized,Unknown,âNoticesââ
 organization,Unknown,651
 political_organization,Unknown,7845
 organization,Unknown,265700083
@@ -102,7 +102,7 @@ organization,Unknown,610
 organization,Unknown,4063
 organization,Unknown,740523
 vessel,Unknown,Marine
-nan,Unknown,255â273
+Uncategorized,Unknown,255â273
 location,Unknown,91dcf36d-dba8-41e8-a4cc-912981a27296
 organization,Unknown,69150209
 organization,Unknown,2
@@ -140,7 +140,7 @@ organization,Unknown,93873119
 person,Country_271835,Jeremy Cordova
 location,Unknown,602ea158-0519-47fc-badc-787721580418
 person,Country_271835,Victoria Parks
-nan,Unknown,St
+Uncategorized,Unknown,St
 location,Unknown,e40c01a4-8ed5-400f-857d-31e7bd263e35
 organization,Unknown,49494
 organization,Unknown,551
@@ -165,14 +165,14 @@ location,Unknown,ee05a28e-82ba-4f1d-a60f-68797a422ada
 political_organization,Unknown,82344
 organization,Unknown,58
 person,Country_19028,Cynthia Williams
-nan,Unknown,Armed Robberyâ
+Uncategorized,Unknown,Armed Robberyâ
 organization,Unknown,76
 organization,Unknown,6731
 organization,Unknown,83
 person,Vesperanda,Ms. Stephanie Rivera DDS
 organization,Unknown,665
 organization,Unknown,89772543
-nan,Unknown,âunregulatedâ
+Uncategorized,Unknown,âunregulatedâ
 location,Unknown,aea12579-8802-4b2d-b432-fc35fe4d10d5
 location,Unknown,a7948099-0cab-4b80-8707-2ada931ac288
 person,Country_271835,Michael Smith
@@ -205,7 +205,7 @@ organization,Unknown,435054320
 vessel,Unknown,Cutter
 location,Unknown,f21800ca-b3c9-404b-8438-3d75ea84c409
 organization,Unknown,1560
-nan,Unknown,Sept
+Uncategorized,Unknown,Sept
 person,Nalakond,John Gonzalez
 organization,Unknown,68703341
 political_organization,Unknown,57
@@ -221,10 +221,10 @@ person,Country_271835,James Best
 organization,Unknown,9203
 organization,Unknown,3878194
 person,Country_271835,Amy Kent
-nan,Unknown,Conventionâ
+Uncategorized,Unknown,Conventionâ
 event,Unknown,months years
 vessel,Unknown,water fishing
-nan,Unknown,monthsâ
+Uncategorized,Unknown,monthsâ
 vessel,Unknown,18
 movement,Unknown,months
 person,Country_271835,Emily Johnson
@@ -283,7 +283,7 @@ organization,Unknown,235866056
 location,Unknown,d5b94ebc-e03a-438e-872b-a15db349a748
 organization,Unknown,486
 event,Unknown,arts
-nan,Unknown,98
+Uncategorized,Unknown,98
 person,Country_271835,Timothy Cuevas
 person,Country_271835,Joshua Glover
 person,Country_271835,Tara Villegas
@@ -291,14 +291,14 @@ person,Country_271835,Ashley Wiggins
 political_organization,Unknown,49048884
 organization,Unknown,9612243
 person,Country_271835,Andrea Hansen
-nan,Unknown,189
-nan,Unknown,07
+Uncategorized,Unknown,189
+Uncategorized,Unknown,07
 organization,Unknown,737205
 event,Unknown,April
 organization,Unknown,5705060
 organization,Unknown,959
 company,Country_271835,Belgian Scallop Ltd. Liability Co
-nan,Unknown,ânecessaryâ
+Uncategorized,Unknown,ânecessaryâ
 organization,Unknown,883320938
 person,Country_271835,Ryan Williams
 person,Country_271835,Colleen Everett
@@ -326,12 +326,12 @@ organization,Unknown,49
 political_organization,Unknown,12845006
 organization,Unknown,9488645
 person,Merigrad,Lauren Moore
-nan,Unknown,âlocalâ
-nan,Unknown,Leominster Provincetownâ
+Uncategorized,Unknown,âlocalâ
+Uncategorized,Unknown,Leominster Provincetownâ
 location,Unknown,371bf15a-3000-499a-88e4-cc096b028ec7
 political_organization,Unknown,913428
 location,Unknown,d7f220de-bba2-4965-9c15-3dd38ef5c3c7
-nan,Unknown,fisheriesâ
+Uncategorized,Unknown,fisheriesâ
 person,Country_271835,Mark Weiss
 organization,Unknown,53073557
 person,Country_271835,Jason Davis
@@ -413,62 +413,62 @@ organization,Unknown,4764109
 organization,Unknown,761
 location,Unknown,a7d22b55-872d-4fc0-b1ea-935f63ce0d2a
 vessel,Unknown,water
-nan,Unknown,âdevil vesselsâ
+Uncategorized,Unknown,âdevil vesselsâ
 person,Country_245265,Erik Johnson
 person,Country_271835,Alexandria Wilson
 organization,Unknown,9786
 person,Country_271835,Stephanie Garner
-nan,Unknown,œÆï
-nan,Unknown,œe1Pï
-nan,Unknown,œe1Pï¿œPï
-nan,Unknown,œPï
-nan,Unknown,œíï
-nan,Unknown,œXuï
-nan,Unknown,œÞ£ï
-nan,Unknown,œ8p
-nan,Unknown,œk
-nan,Unknown,œPjï
-nan,Unknown,œÞï
-nan,Unknown,œB
-nan,Unknown,œlÞuï
-nan,Unknown,iJPkï
-nan,Unknown,œ5ï
-nan,Unknown,œï
-nan,Unknown,œDdï
-nan,Unknown,Æï
-nan,Unknown,œgï
-nan,Unknown,pï¿œï
-nan,Unknown,œï¿œï
-nan,Unknown,Kï
-nan,Unknown,œiï
-nan,Unknown,qï¿œî
-nan,Unknown,œGuï
-nan,Unknown,œPm6
-nan,Unknown,œz
-nan,Unknown,œNï
-nan,Unknown,œÎï
-nan,Unknown,œbjNnnï
-nan,Unknown,œLï
-nan,Unknown,œß
-nan,Unknown,œ5ï
-nan,Unknown,Éd
-nan,Unknown,Lï
-nan,Unknown,œjOÑ
-nan,Unknown,œY
-nan,Unknown,œnOï
-nan,Unknown,Nï
-nan,Unknown,œzï
-nan,Unknown,œX
-nan,Unknown,œÒŒipï
-nan,Unknown,œMSssï
-nan,Unknown,œx
-nan,Unknown,œVï
-nan,Unknown,œUkï
-nan,Unknown,œmï¿œdï
-nan,Unknown,œmç¢kï
-nan,Unknown,œmç¢kï¿œF1ï
-nan,Unknown,œF1ï
-nan,Unknown,œF1ï¿œF
+Uncategorized,Unknown,œÆï
+Uncategorized,Unknown,œe1Pï
+Uncategorized,Unknown,œe1Pï¿œPï
+Uncategorized,Unknown,œPï
+Uncategorized,Unknown,œíï
+Uncategorized,Unknown,œXuï
+Uncategorized,Unknown,œÞ£ï
+Uncategorized,Unknown,œ8p
+Uncategorized,Unknown,œk
+Uncategorized,Unknown,œPjï
+Uncategorized,Unknown,œÞï
+Uncategorized,Unknown,œB
+Uncategorized,Unknown,œlÞuï
+Uncategorized,Unknown,iJPkï
+Uncategorized,Unknown,œ5ï
+Uncategorized,Unknown,œï
+Uncategorized,Unknown,œDdï
+Uncategorized,Unknown,Æï
+Uncategorized,Unknown,œgï
+Uncategorized,Unknown,pï¿œï
+Uncategorized,Unknown,œï¿œï
+Uncategorized,Unknown,Kï
+Uncategorized,Unknown,œiï
+Uncategorized,Unknown,qï¿œî
+Uncategorized,Unknown,œGuï
+Uncategorized,Unknown,œPm6
+Uncategorized,Unknown,œz
+Uncategorized,Unknown,œNï
+Uncategorized,Unknown,œÎï
+Uncategorized,Unknown,œbjNnnï
+Uncategorized,Unknown,œLï
+Uncategorized,Unknown,œß
+Uncategorized,Unknown,œ5ï
+Uncategorized,Unknown,Éd
+Uncategorized,Unknown,Lï
+Uncategorized,Unknown,œjOÑ
+Uncategorized,Unknown,œY
+Uncategorized,Unknown,œnOï
+Uncategorized,Unknown,Nï
+Uncategorized,Unknown,œzï
+Uncategorized,Unknown,œX
+Uncategorized,Unknown,œÒŒipï
+Uncategorized,Unknown,œMSssï
+Uncategorized,Unknown,œx
+Uncategorized,Unknown,œVï
+Uncategorized,Unknown,œUkï
+Uncategorized,Unknown,œmï¿œdï
+Uncategorized,Unknown,œmç¢kï
+Uncategorized,Unknown,œmç¢kï¿œF1ï
+Uncategorized,Unknown,œF1ï
+Uncategorized,Unknown,œF1ï¿œF
 person,Country_271835,Miguel Fisher
 event,Unknown,Last
 person,Country_271835,Jeremy Norris
@@ -500,8 +500,8 @@ location,Unknown,79513661-4dbe-4797-a73a-e53177f7a4b3
 person,Country_271835,Michele Henry
 organization,Unknown,36295
 location,Unknown,a7a35f33-3e72-44f2-a51b-922e44da23bc
-nan,Unknown,âartisanalâ
-nan,Unknown,âsubsistenceâ
+Uncategorized,Unknown,âartisanalâ
+Uncategorized,Unknown,âsubsistenceâ
 person,Country_271835,Jeremiah Delacruz
 event,Unknown,âsquids
 event,Unknown,âclams
@@ -517,34 +517,34 @@ location,Unknown,38b72863-eaf3-4270-a213-d9ddaee2c6cb
 location,Unknown,410af01b-a5fb-4d6c-946d-a48fea30332b
 event,Unknown,âSocioeconomic
 organization,Unknown,553309
-nan,Unknown,EBSCOhostâsearched âoctopus
-nan,Unknown,AND fisheryâ
+Uncategorized,Unknown,EBSCOhostâsearched âoctopus
+Uncategorized,Unknown,AND fisheryâ
 organization,Unknown,515270
 location,Unknown,09e2222b-c13c-4a94-b1d9-b79238be0788
-nan,Unknown,artisanalâ
+Uncategorized,Unknown,artisanalâ
 political_organization,Unknown,704
 person,Country_271835,Elizabeth Savage
-nan,Unknown,âoctopusâ
-nan,Unknown,âcephalopodâ
-nan,Unknown,cyaneaâ
-nan,Unknown,mayaâ
+Uncategorized,Unknown,âoctopusâ
+Uncategorized,Unknown,âcephalopodâ
+Uncategorized,Unknown,cyaneaâ
+Uncategorized,Unknown,mayaâ
 person,Country_271835,Taylor Park
-nan,Unknown,âpolvoâ
-nan,Unknown,âlivelihoodâ
+Uncategorized,Unknown,âpolvoâ
+Uncategorized,Unknown,âlivelihoodâ
 person,Country_271835,Angela Wheeler
 person,Country_271835,Lisa Branch
-nan,Unknown,folkâ
-nan,Unknown,âwomenâ
-nan,Unknown,âfisherâ
-nan,Unknown,managementâ
-nan,Unknown,âo
+Uncategorized,Unknown,folkâ
+Uncategorized,Unknown,âwomenâ
+Uncategorized,Unknown,âfisherâ
+Uncategorized,Unknown,managementâ
+Uncategorized,Unknown,âo
 person,Country_271835,Adam Blankenship
-nan,Unknown,âpoulpeâ
+Uncategorized,Unknown,âpoulpeâ
 person,Country_271835,Mr. Thomas Johnson DDS
-nan,Unknown,scaleâ
+Uncategorized,Unknown,scaleâ
 company,Country_271835,Costa del Mar Oyj Hijiki
 person,Quandoria,Miss Jessica Baker DVM
-nan,Unknown,Alonso-FernÃ
+Uncategorized,Unknown,Alonso-FernÃ
 location,Unknown,4b6a1701-93c3-403c-bd2f-9684106e8bba
 location,Unknown,c1aeee2d-0030-4d85-b45c-ac3fd9887b98
 company,Osterivaria,Bu yu wang Plc Carriers
@@ -572,7 +572,7 @@ organization,Unknown,995899
 organization,Unknown,47249
 organization,Unknown,23399545
 political_organization,Unknown,621
-nan,Unknown,europeansting
+Uncategorized,Unknown,europeansting
 company,Country_271835,Jammu & Kashmir Ltd Family
 political_organization,Unknown,7023
 organization,Unknown,13863
@@ -607,7 +607,7 @@ company,Country_271835,Delhi ers AS Holdings
 company,Country_271835,Cape of Good Hope  Oyj
 location,Unknown,abcb0d9c-80da-4491-99f3-e093984f5373
 person,Oceanus,Erin Simmons
-nan,Unknown,LOMÃ
+Uncategorized,Unknown,LOMÃ
 location,Unknown,6ae0d6bb-b101-4905-8b41-86b10a580c82
 person,Oceanus,Kristina Frazier
 person,Oceanus,Bryan Johnston
@@ -621,7 +621,7 @@ person,Country_271835,Dale Warner
 organization,Unknown,451
 location,Unknown,705283b0-cdb7-4f0a-8481-b3fea243a8e5
 location,Unknown,30295c76-f2c6-4284-89fd-8f8fd082889b
-nan,Unknown,Statesâ
+Uncategorized,Unknown,Statesâ
 vessel,Unknown,Gulf
 vessel,Unknown,Boat
 person,Country_271835,Teresa Rivera
@@ -647,14 +647,14 @@ person,Country_271835,Alan Pacheco
 location,Unknown,50335cc3-71d6-4803-baca-5faaecfc33cb
 person,Country_271835,Virginia Carter
 person,Country_271835,April James
-nan,Unknown,Aleut Community St
-nan,Unknown,KanuuxÌ
+Uncategorized,Unknown,Aleut Community St
+Uncategorized,Unknown,KanuuxÌ
 location,Unknown,e8036bce-0679-41d2-aa7b-d444163ae65a
-nan,Unknown,âSewardâs Follyâ
+Uncategorized,Unknown,âSewardâs Follyâ
 person,Country_271835,Wendy Duarte
 location,Unknown,aa1f466d-d060-40fa-ab0e-3f8bb2ca940f
 person,Country_271835,Alexis Murphy
-nan,Unknown,AlaÄum KanuuxÌ
+Uncategorized,Unknown,AlaÄum KanuuxÌ
 person,Country_34878,Angela Powers
 person,Country_271835,Eric Gentry
 person,Country_271835,Donna Shepherd
@@ -670,7 +670,7 @@ organization,Unknown,2421
 organization,Unknown,7413
 political_organization,Unknown,43185
 organization,Unknown,937182447
-nan,Unknown,âAlaÄum KanuuxÌ
+Uncategorized,Unknown,âAlaÄum KanuuxÌ
 organization,Unknown,861
 person,Country_271835,Gary Scott
 organization,Unknown,883290144
@@ -696,7 +696,7 @@ location,Unknown,87ea830d-be41-4317-8b1b-142f23da70d7
 organization,Unknown,662118
 organization,Unknown,45
 location,Unknown,c14a3dc1-59d0-4b92-b9f3-331e51912787
-nan,Unknown,17 Sept
+Uncategorized,Unknown,17 Sept
 person,Oceanus,Christopher Peterson
 organization,Unknown,505943
 person,Country_271835,Isaiah Hammond
@@ -710,14 +710,14 @@ organization,Unknown,7871
 organization,Unknown,7247721
 organization,Unknown,22
 location,Unknown,cefaf8b3-3aa2-4c59-b4aa-7974c8e1fe32
-nan,Unknown,âgreenâ
+Uncategorized,Unknown,âgreenâ
 movement,Unknown,normal
 location,Unknown,ede1806c-b3d1-47f5-ba49-d948d6ec385a
 organization,Unknown,36
 location,Unknown,52e9a600-9d6f-4683-95be-c7c60c57ffe1
 person,Polarisdom,Christina Olsen
-nan,Unknown,DiÃ
-nan,Unknown,logo
+Uncategorized,Unknown,DiÃ
+Uncategorized,Unknown,logo
 person,Country_271835,Amy Wise
 organization,Unknown,8609
 political_organization,Unknown,40952
@@ -735,16 +735,16 @@ company,Marebak,Rybachit Limited Liability Company
 person,Country_271835,Hunter Wheeler
 person,Country_271835,Christopher Miller
 location,Unknown,ae88562c-5c39-4c15-b128-b4f67f5e5812
-nan,Unknown,ipoa-iuu
-nan,Unknown,Think Tank Index Reportâ
-nan,Unknown,upenn
-nan,Unknown,edu
+Uncategorized,Unknown,ipoa-iuu
+Uncategorized,Unknown,Think Tank Index Reportâ
+Uncategorized,Unknown,upenn
+Uncategorized,Unknown,edu
 location,Unknown,2ceda972-c633-4a88-bbe8-a4fe48cb5555
-nan,Unknown,Torremolinos
-nan,Unknown,International-Convention
-nan,Unknown,imo
+Uncategorized,Unknown,Torremolinos
+Uncategorized,Unknown,International-Convention
+Uncategorized,Unknown,imo
 organization,Unknown,890
-nan,Unknown,âU
+Uncategorized,Unknown,âU
 company,Country_271835,Senegal Coast Oyj Motorboat
 organization,Unknown,762833
 vessel,Unknown,Spy
@@ -763,7 +763,7 @@ organization,Unknown,90254947
 organization,Unknown,591787
 person,Country_415128,Joseph Johnson
 person,Country_895471,Peter Oliver
-nan,Unknown,âsinkâ
+Uncategorized,Unknown,âsinkâ
 organization,Unknown,555217629
 person,Country_437825,Jeremy Jackson
 person,Country_198078,Kelly Brown
@@ -777,14 +777,14 @@ person,Country_984533,Patricia Byrd
 person,Riodelsol,Ronald Mahoney
 company,Country_271835,Playa de Coral GmbH Consultants
 person,Country_271835,Kirk Jackson
-nan,Unknown,âdegradedâ
+Uncategorized,Unknown,âdegradedâ
 person,Country_271835,Jeffrey Curry
 person,Country_271835,Steven Huynh
 person,Oceanterra,Evelyn Huang
 event,Unknown,âpoint
 person,Country_271835,Bonnie Perez
 person,Country_483478,Courtney Evans
-nan,Unknown,Mexicoâs YucatÃ
+Uncategorized,Unknown,Mexicoâs YucatÃ
 person,Country_271835,Jerry Welch
 location,Unknown,1196cfc8-175c-465b-aee9-fbf74c81aa49
 organization,Unknown,87
@@ -794,9 +794,9 @@ person,Country_271835,Richard Greer
 person,Country_271835,David Hayden
 person,Country_271835,Matthew Delgado
 location,Unknown,21e68e53-183c-45a0-9805-68c099d4d9c0
-nan,Unknown,âpioneersâ
+Uncategorized,Unknown,âpioneersâ
 event,Unknown,embaÃºba
-nan,Unknown,âzombie
+Uncategorized,Unknown,âzombie
 person,Country_981995,Kenneth Jones
 event,Unknown,âSwiss
 person,Country_271835,Elizabeth Dean
@@ -821,7 +821,7 @@ person,Country_271835,Stephen Lowe
 person,Country_271835,Nicholas Hernandez
 person,Country_271835,Stephanie Robinson
 location,Unknown,e678510b-947d-455a-8eb0-44d1009682ec
-nan,Unknown,The Pew Charitable Trustsâ
+Uncategorized,Unknown,The Pew Charitable Trustsâ
 person,Country_271835,Jerry Montgomery
 location,Unknown,ad8fe467-3759-4f53-bf6a-896a237d187f
 vessel,Unknown,Leng 999 Gal
@@ -834,7 +834,7 @@ organization,Unknown,33681303
 person,Country_461742,Michael Brock
 organization,Unknown,2573803
 organization,Unknown,56126935
-nan,Unknown,âcollaborativeâ
+Uncategorized,Unknown,âcollaborativeâ
 person,Syrithania,Xavier Sanchez
 person,Country_271835,Raymond King
 person,Country_542476,Thomas Morales
@@ -881,7 +881,7 @@ person,Country_271835,Bethany Wright
 person,Country_271835,Willie Hill
 person,Country_271835,Jennifer Meyers
 person,Country_271835,Allison Leonard
-nan,Unknown,ââ
+Uncategorized,Unknown,ââ
 person,Country_271835,Amanda Andrews
 person,Ivarisia,Bruce Brooks
 organization,Unknown,111795162
@@ -928,7 +928,7 @@ location,Unknown,da75877e-ec57-42cc-82b9-de68c8d333e7
 vessel,Unknown,boat
 person,Syrithania,Michelle Hancock
 person,Country_271835,Kathy Rodriguez
-nan,Unknown,GalÃ
+Uncategorized,Unknown,GalÃ
 political_organization,Unknown,950296
 vessel,Unknown,Oceans
 person,Country_271835,David Weber
@@ -984,8 +984,8 @@ location,Unknown,34f0cbbf-83c3-4e09-ad7a-b94a778f7c12
 person,Country_271835,Michael Porter
 person,Country_271835,Madison Edwards
 person,Marebak,Calvin Salas
-nan,Unknown,âpresumedâ
-nan,Unknown,âconfirmedâ
+Uncategorized,Unknown,âpresumedâ
+Uncategorized,Unknown,âconfirmedâ
 organization,Unknown,685607
 organization,Unknown,265494227
 location,Unknown,2a282617-d174-409c-b0b1-490fdc369335
@@ -996,9 +996,9 @@ person,Wysterion,Tristan Johnson
 person,Country_271835,Andrew Gamble
 organization,Unknown,21724
 event,Unknown,âhigh
-nan,Unknown,âwidespreadâ
+Uncategorized,Unknown,âwidespreadâ
 person,Country_907876,David Mcfarland
-nan,Unknown,âprotectedâ
+Uncategorized,Unknown,âprotectedâ
 organization,Unknown,30700925
 person,Country_271835,George Morton
 person,Country_271835,Janice Bell
@@ -1011,7 +1011,7 @@ organization,Unknown,4447143
 person,Country_271835,Lisa Foster
 organization,Unknown,34252
 organization,Unknown,8494294
-nan,Unknown,Catchâ
+Uncategorized,Unknown,Catchâ
 organization,Unknown,17
 organization,Unknown,150674265
 person,Oceanus,Audrey Romero
@@ -1020,7 +1020,7 @@ location,Unknown,36b70b18-465a-442f-bfbe-cedb85d48acc
 organization,Unknown,13
 organization,Unknown,3887
 vessel,Unknown,reefers
-nan,Unknown,âencounteredâ
+Uncategorized,Unknown,âencounteredâ
 person,Country_271835,Veronica Payne
 person,Country_271835,Ronnie Burns
 person,Country_271835,Lisa Lambert
@@ -1038,7 +1038,7 @@ person,Country_271835,Mr. Justin Bailey MD
 organization,Unknown,76568
 location,Unknown,c682ec16-cd10-4a6c-94ce-4a5eb590b42e
 person,Country_271835,Paula Allen
-nan,Unknown,13 yearsâ
+Uncategorized,Unknown,13 yearsâ
 movement,Unknown,three
 person,Country_271835,Christy Fields
 person,Country_271835,Michele Hernandez
@@ -1070,7 +1070,7 @@ organization,Unknown,39893
 location,Unknown,47bd4f34-d0af-41f0-88c5-eb9d4fde440c
 organization,Unknown,3782
 organization,Unknown,7441
-nan,Unknown,Fisheries Animal Industriesâ
+Uncategorized,Unknown,Fisheries Animal Industriesâ
 person,Country_271835,Donald Thompson
 person,Country_271835,Cynthia Byrd
 person,Country_271835,Christopher Hernandez
@@ -1108,7 +1108,7 @@ vessel,Unknown,Chinook
 organization,Unknown,6274
 location,Unknown,f9f6fc72-83db-4c44-a818-dde6c33985f9
 organization,Unknown,6758207
-nan,Unknown,abc12
+Uncategorized,Unknown,abc12
 political_organization,Unknown,40
 organization,Unknown,615043
 person,Country_271835,Robert Lewis
@@ -1241,7 +1241,7 @@ organization,Unknown,3015
 organization,Unknown,2679
 location,Unknown,97836b65-db6a-43bf-9467-cf57d84645ff
 person,Country_271835,Douglas Gillespie
-nan,Unknown,âdisasterâ
+Uncategorized,Unknown,âdisasterâ
 person,Country_271835,Jonathan Garner
 person,Country_271835,Amanda Contreras
 vessel,Unknown,Long Xing 629
@@ -1264,7 +1264,7 @@ vessel,Unknown,Deckhands
 person,Country_271835,Bruce Bates
 person,Country_271835,Kimberly Lopez
 person,Country_271835,Teresa Jackson
-nan,Unknown,âWe fins
+Uncategorized,Unknown,âWe fins
 location,Unknown,ecf18ac9-a773-43a0-98c8-cdd264565b2f
 organization,Unknown,46
 location,Unknown,65fea097-e838-4be6-9889-83f5361fe777
@@ -1305,7 +1305,7 @@ person,Country_271835,Amanda Becker
 organization,Unknown,160
 person,Country_271835,Nicholas Dennis
 organization,Unknown,938816
-nan,Unknown,ðªðª
+Uncategorized,Unknown,ðªðª
 organization,Unknown,5469
 organization,Unknown,4679
 company,Country_271835,Cape Verde Islands Oyj
@@ -1335,7 +1335,7 @@ organization,Unknown,34020206
 company,Country_271835,Fin Flair Pic Delivery
 person,Country_271835,Scott Wallace
 person,Uzifrica,Tony Patterson
-nan,Unknown,Sampath
+Uncategorized,Unknown,Sampath
 organization,Unknown,683962
 person,Country_271835,Anna Johnson
 location,Unknown,95c715ba-891e-4472-8e2a-4e746dcc266a
@@ -1367,16 +1367,16 @@ person,Country_271835,Denise Diaz
 location,Unknown,6ead18ca-3084-4f8e-9c1e-a5e470fc5935
 organization,Unknown,48259
 location,Unknown,b636c0f8-2ddf-42ad-9f9c-73bd48682561
-nan,Unknown,United Statesâ
+Uncategorized,Unknown,United Statesâ
 organization,Unknown,55301
 person,Country_271835,Elaine Duncan
-nan,Unknown,Game Thiefâ
+Uncategorized,Unknown,Game Thiefâ
 organization,Unknown,604905
 organization,Unknown,784221
 location,Unknown,ae19b5a7-4f70-4366-98ad-819e3009aeca
 location,Unknown,d4947401-8ec7-48b9-a66f-45d983d59e0a
 person,Country_271835,Dennis Little
-nan,Unknown,âtransshipmentâ
+Uncategorized,Unknown,âtransshipmentâ
 person,Marebak,Brooke Garza
 vessel,Unknown,Feng
 organization,Unknown,82462633
@@ -1403,8 +1403,8 @@ organization,Unknown,307
 person,Country_271835,Monique Rios
 event,Unknown,yearsâthat
 political_organization,Unknown,950574
-nan,Unknown,Pacific Island States United Statesâ
-nan,Unknown,territory American Samoa
+Uncategorized,Unknown,Pacific Island States United Statesâ
+Uncategorized,Unknown,territory American Samoa
 location,Unknown,62d4bdbc-8978-4cbf-b9ea-82aaa9188c91
 organization,Unknown,900
 company,Country_271835,Coastal Crusaders Kga Worldwide
@@ -1414,7 +1414,7 @@ person,Country_271835,Fernando Steele
 person,Country_271835,David Tucker
 company,Helvoris,Tiao piao AG Delivery
 location,Unknown,e39609a3-b437-41c2-b114-e21dc69a9bb1
-nan,Unknown,âeared sealsâ
+Uncategorized,Unknown,âeared sealsâ
 person,Helvoris,Robert Mcintosh
 person,Helvoris,Amber Sharp
 person,Country_271835,James Anderson
@@ -1435,11 +1435,11 @@ person,Country_271835,Ryan Rich
 organization,Unknown,650749
 person,Country_271835,Shawna Welch
 person,Country_271835,Zachary Jordan
-nan,Unknown,holesâ
+Uncategorized,Unknown,holesâ
 organization,Unknown,89526932
 event,Unknown,âfirst
 organization,Unknown,26978247
-nan,Unknown,nigeria
+Uncategorized,Unknown,nigeria
 vessel,Unknown,boatâs
 organization,Unknown,53792
 location,Unknown,c66f5cd5-3891-43ce-a3f8-0147b3d643b1
@@ -1453,7 +1453,7 @@ location,Unknown,23f52980-e4f4-43da-ac02-9c1eef637751
 organization,Unknown,245658
 organization,Unknown,552027385
 person,Country_271835,Brian Stevens
-nan,Unknown,âconservativeâ
+Uncategorized,Unknown,âconservativeâ
 location,Unknown,e4e5b1ca-e210-4d3f-8cea-fa5c2309340f
 location,Unknown,ce06b4c4-dd19-485d-ad52-f7cd953db1c2
 location,Unknown,d2589980-b0c7-4c36-8ddf-8afe554853ea
@@ -1468,10 +1468,10 @@ person,Country_980042,Gary Crawford PhD
 vessel,Unknown,FV Snake
 vessel,Unknown,FV Viking
 vessel,Unknown,FV Thunder
-nan,Unknown,Aquacultureâ
+Uncategorized,Unknown,Aquacultureâ
 person,Country_271835,Paul Parker
 organization,Unknown,4877
-nan,Unknown,âdiscriminationâ
+Uncategorized,Unknown,âdiscriminationâ
 person,Country_271835,Jessica Gibson
 location,Unknown,da7677f8-d1f0-4e35-afe9-4240613e866b
 organization,Unknown,48115
@@ -1482,9 +1482,9 @@ person,Country_271835,Martin Bryant
 organization,Unknown,555
 organization,Unknown,903311212
 organization,Unknown,683113035
-nan,Unknown,th
+Uncategorized,Unknown,th
 person,Country_271835,Bruce Spears
-nan,Unknown,ItaquaÃ
+Uncategorized,Unknown,ItaquaÃ
 location,Unknown,1710a32e-7a58-4d7f-9c5e-bf897b7419a3
 person,Country_271835,Sherry Richmond
 person,Country_271835,Daniel Shaffer
@@ -1496,7 +1496,7 @@ person,Country_271835,Joshua Hammond
 person,Country_230197,Samuel Cross
 event,Unknown,âAs
 organization,Unknown,47698
-nan,Unknown,DECEUNINCK
+Uncategorized,Unknown,DECEUNINCK
 person,Country_271835,Kristi Ryan
 organization,Unknown,199
 organization,Unknown,23990411
@@ -1519,7 +1519,7 @@ location,Unknown,f94bcae5-b023-48f6-a0d5-ff2f01cc00ed
 event,Unknown,âcatch
 event,Unknown,âtotal
 company,Country_675160,Manipur Market AG Consultants
-nan,Unknown,âMoby-Dickâ
+Uncategorized,Unknown,âMoby-Dickâ
 location,Unknown,04eab3c4-ed99-467b-8844-b5279a6b955e
 organization,Unknown,5312744
 person,Country_271835,Amanda Santana
@@ -1527,13 +1527,13 @@ person,Country_271835,Dana Macias
 person,Country_271835,Helen Chase
 person,Country_271835,Candace Burnett
 organization,Unknown,34153143
-nan,Unknown,âTheoretically
+Uncategorized,Unknown,âTheoretically
 person,Uzilandor,Jonathan Torres
 person,Country_271835,Gary Dunn
 organization,Unknown,721436
 person,Country_271835,Brittany Frey
 person,Country_271835,Brett Williams
-nan,Unknown,Seafreeze Ltd
+Uncategorized,Unknown,Seafreeze Ltd
 organization,Unknown,36033030
 person,Country_271835,Todd Lane
 person,Country_271835,Alicia Lee
@@ -1544,13 +1544,13 @@ person,Country_271835,Donna Romero
 person,Country_271835,Amanda Garcia
 company,Oceanus,Shona Barracuda AB Worldwide
 organization,Unknown,415053
-nan,Unknown,âBHFâ
+Uncategorized,Unknown,âBHFâ
 person,Country_271835,Olivia Bradshaw
 organization,Unknown,461541
-nan,Unknown,âProPublicaâ
-nan,Unknown,âyesterdayâ
+Uncategorized,Unknown,âProPublicaâ
+Uncategorized,Unknown,âyesterdayâ
 event,Unknown,âlast week
-nan,Unknown,âPortlandâ
+Uncategorized,Unknown,âPortlandâ
 vessel,Unknown,watercraft
 person,Country_271835,Bradley Murphy
 person,Country_271835,Madison Franklin
@@ -1562,8 +1562,8 @@ person,Country_271835,Kari Zavala
 location,Unknown,91a2a8e6-f56f-4663-8be9-0bbfd5440489
 location,Unknown,40cfcd88-fceb-49bd-a71a-053aacddad42
 location,Unknown,cb537677-9d82-4d58-8066-899bdc51c4f1
-nan,Unknown,4âÃâ15â
-nan,Unknown,â60
+Uncategorized,Unknown,4âÃâ15â
+Uncategorized,Unknown,â60
 vessel,Unknown,diesel
 vessel,Unknown,bottom otter trawler
 organization,Unknown,2820033
@@ -1583,18 +1583,18 @@ organization,Unknown,6185842
 organization,Unknown,762165
 organization,Unknown,428
 organization,Unknown,4962642
-nan,Unknown,93
+Uncategorized,Unknown,93
 person,Country_271835,Olivia Bailey
-nan,Unknown,96
+Uncategorized,Unknown,96
 location,Unknown,ffc679cd-57ac-4846-b023-8be73ca754fa
-nan,Unknown,FlodstrÃ
+Uncategorized,Unknown,FlodstrÃ
 organization,Unknown,700
 organization,Unknown,941899076
 organization,Unknown,520
 organization,Unknown,85
 organization,Unknown,9636
 organization,Unknown,449
-nan,Unknown,âcardingâ
+Uncategorized,Unknown,âcardingâ
 person,Country_271835,Tyler Flores
 vessel,Unknown,Michelle
 organization,Unknown,2466
@@ -1612,9 +1612,9 @@ person,Country_271835,Daniel Roberts
 location,Unknown,85b8a8cf-7f07-4bab-8b44-1d79940aab8d
 organization,Unknown,933754160
 person,Country_271835,Tyler Turner
-nan,Unknown,allAfrica
+Uncategorized,Unknown,allAfrica
 location,Unknown,933c4581-7ecc-4377-995c-7a200fee617b
-nan,Unknown,Â£9
+Uncategorized,Unknown,Â£9
 person,Country_462996,Melinda Bentley
 organization,Unknown,41713
 organization,Unknown,900338
@@ -1634,7 +1634,7 @@ person,Oceanus,Michele Black
 organization,Unknown,3857345
 person,Country_271835,Ms. Brittany Murray
 person,Oceanus,Matthew White
-nan,Unknown,Â£800
+Uncategorized,Unknown,Â£800
 person,Country_699698,Tonya Key
 person,Country_271835,Sara Waller
 organization,Unknown,99233
@@ -1684,7 +1684,7 @@ organization,Unknown,5383294
 organization,Unknown,9238420
 political_organization,Unknown,70109
 vessel,Unknown,underwater
-nan,Unknown,waterâ
+Uncategorized,Unknown,waterâ
 person,Country_271835,Mrs. Katrina Williams
 organization,Unknown,73166320
 location,Unknown,dbb07e32-a8f4-47d0-ae61-c2e9774e9284
@@ -1700,31 +1700,31 @@ political_organization,Unknown,300
 person,Country_271835,Krystal Foster
 person,Country_271835,Roger Smith
 political_organization,Unknown,37992687
-nan,Unknown,nationalfisherman
-nan,Unknown,intrafish
+Uncategorized,Unknown,nationalfisherman
+Uncategorized,Unknown,intrafish
 organization,Unknown,303934
-nan,Unknown,choicesmagazine
+Uncategorized,Unknown,choicesmagazine
 organization,Unknown,58877070
-nan,Unknown,usa
-nan,Unknown,oceana
+Uncategorized,Unknown,usa
+Uncategorized,Unknown,oceana
 person,Country_271835,Blake Smith
 organization,Unknown,42990314
 organization,Unknown,1338687
 organization,Unknown,507684
-nan,Unknown,ams.usda
+Uncategorized,Unknown,ams.usda
 organization,Unknown,1765605
-nan,Unknown,âinitiallyâ
-nan,Unknown,SIMPComplianceGuide
+Uncategorized,Unknown,âinitiallyâ
+Uncategorized,Unknown,SIMPComplianceGuide
 vessel,Unknown,Cutters
-nan,Unknown,âpoachedâ
+Uncategorized,Unknown,âpoachedâ
 person,Country_271835,Stacy Castillo
 organization,Unknown,34757443
 person,Country_271835,Matthew Mack
 person,Country_271835,David Wilson
 location,Unknown,f205ff1a-8798-48b7-b535-ad87b9756220
 location,Unknown,1a2ebb93-1c85-4f40-abb1-cff639788678
-nan,Unknown,âAccept Allâ
-nan,Unknown,krxd
+Uncategorized,Unknown,âAccept Allâ
+Uncategorized,Unknown,krxd
 person,Country_271835,Zachary Blackburn
 vessel,Unknown,operated vehicle
 person,Country_271835,James Berry
@@ -1756,7 +1756,7 @@ person,Oceanus,Patricia Flores
 organization,Unknown,74505
 person,Country_271835,Joshua Roberts
 person,Country_271835,Denise Moore
-nan,Unknown,âseamountâ
+Uncategorized,Unknown,âseamountâ
 person,Country_271835,Lisa Castaneda
 person,Country_271835,Christina Abbott
 organization,Unknown,4657860
@@ -1764,7 +1764,7 @@ political_organization,Unknown,519443204
 organization,Unknown,3394552
 organization,Unknown,618
 person,Country_256617,Brittany Kane
-nan,Unknown,Marsâ
+Uncategorized,Unknown,Marsâ
 location,Unknown,bd16ff21-2da0-4ad7-8aec-d04a28b61277
 event,Unknown,past yearâs
 vessel,Unknown,whales
@@ -1776,9 +1776,9 @@ person,Rio Solovia,Anthony Mendez
 organization,Unknown,806
 event,Unknown,Hubble
 event,Unknown,event
-nan,Unknown,Launch Loversâ
+Uncategorized,Unknown,Launch Loversâ
 location,Unknown,cd2685a2-fce5-49ee-8ca7-b9faa081d190
-nan,Unknown,LC
+Uncategorized,Unknown,LC
 vessel,Unknown,Spaceflight
 organization,Unknown,93
 location,Unknown,e95a9547-3611-4e86-adbe-9aa55dbff21f
@@ -1824,7 +1824,7 @@ person,Country_271835,Jerry Miller
 organization,Unknown,15758645
 person,Country_271835,Dakota Flores
 organization,Unknown,204
-nan,Unknown,US Special Operations SOF
+Uncategorized,Unknown,US Special Operations SOF
 organization,Unknown,7490484
 person,Country_271835,Kari Padilla
 person,Country_198078,Angela Navarro
@@ -1834,7 +1834,7 @@ political_organization,Unknown,414
 political_organization,Unknown,28422
 political_organization,Unknown,428949
 political_organization,Unknown,838200939
-nan,Unknown,âbossesâ
+Uncategorized,Unknown,âbossesâ
 person,Country_271835,Levi Jones
 person,Country_271835,Adriana Rhodes
 person,Uzilandor,Kevin Moore
@@ -1849,7 +1849,7 @@ person,Uzilandor,Sabrina Merritt
 person,Country_57382,Justin Fowler
 organization,Unknown,120
 organization,Unknown,2422788
-nan,Unknown,MCDP
+Uncategorized,Unknown,MCDP
 location,Unknown,c97073d1-61a4-4a06-a189-8b4642a699e1
 political_organization,Unknown,66
 location,Unknown,65872b93-db53-4445-a72e-8f84b3d7edfc
@@ -1884,7 +1884,7 @@ organization,Unknown,62343
 organization,Unknown,688224
 person,Country_271835,George Vance
 person,Country_271835,Jason Fleming
-nan,Unknown,âdimersalâ
+Uncategorized,Unknown,âdimersalâ
 location,Unknown,c600d751-cc48-4e8e-800e-63ec87a4239f
 person,Country_271835,Cynthia Huff
 person,Country_271835,Angela Lee
@@ -1895,9 +1895,9 @@ vessel,Unknown,ARA Bouchard
 person,Puerto del Mar,Richard Douglas
 person,Country_271835,Patricia Reyes
 person,Country_271835,Kristin Dawson
-nan,Unknown,âAwachaâ
+Uncategorized,Unknown,âAwachaâ
 person,Country_271835,Brandon Hughes
-nan,Unknown,âSaikoâ
+Uncategorized,Unknown,âSaikoâ
 person,Country_271835,Bethany Lopez
 vessel,Unknown,electric
 vessel,Unknown,wheeler
@@ -1911,7 +1911,7 @@ organization,Unknown,354
 organization,Unknown,945
 event,Unknown,Months
 company,Country_271835,Tamil Nadu Ltd. Liability Co Express
-nan,Unknown,âElquiâ
+Uncategorized,Unknown,âElquiâ
 location,Unknown,738338ba-deef-4364-bedf-707a8cbf9a55
 person,Country_358951,Monica Ramirez
 organization,Unknown,280094
@@ -1997,7 +1997,7 @@ person,Country_144251,Sandra Martinez
 person,Country_271835,Austin Welch
 organization,Unknown,6659
 organization,Unknown,464454263
-nan,Unknown,Shipping Corp
+Uncategorized,Unknown,Shipping Corp
 organization,Unknown,534
 organization,Unknown,4942
 organization,Unknown,884332
@@ -2007,9 +2007,9 @@ organization,Unknown,923825740
 organization,Unknown,5865
 company,Country_271835,Malawi Rift  Holdings Navigation
 company,Country_271835,Baha de Coral OJSC Marine
-nan,Unknown,Navigation Corp
-nan,Unknown,Triton Navigation Corp
-nan,Unknown,Pontus Navigation Corp
+Uncategorized,Unknown,Navigation Corp
+Uncategorized,Unknown,Triton Navigation Corp
+Uncategorized,Unknown,Pontus Navigation Corp
 person,Helixia,John Jensen
 person,Country_271835,Michael Frederick
 organization,Unknown,401289940
@@ -2032,11 +2032,11 @@ organization,Unknown,2357762
 person,Country_271835,Andrew Graves
 person,Country_271835,Mathew Taylor
 location,Unknown,aac2c35c-d06d-45df-a1f8-a0c4001f3897
-nan,Unknown,âHSIâ
-nan,Unknown,âNYPDâ
+Uncategorized,Unknown,âHSIâ
+Uncategorized,Unknown,âNYPDâ
 person,Country_271835,Daniel Obrien
 person,Country_271835,Jeffrey Hall
-nan,Unknown,âbe
+Uncategorized,Unknown,âbe
 location,Unknown,8bdf21e8-914b-4fe2-9280-0a69b9b0175d
 vessel,Unknown,18 wheelers
 person,Country_271835,Michael Vazquez
@@ -2091,7 +2091,7 @@ political_organization,Unknown,460859346
 organization,Unknown,2793
 person,Country_271835,Martin Bell
 person,Country_271835,Michelle Long
-nan,Unknown,âlaughableâ
+Uncategorized,Unknown,âlaughableâ
 organization,Unknown,8325
 organization,Unknown,437212
 organization,Unknown,299
@@ -2107,8 +2107,8 @@ location,Unknown,82f2f404-439a-4b2e-b423-726a7f933abf
 organization,Unknown,298930
 person,Country_789455,Mark Garcia
 location,Unknown,f59ca3ce-7fea-4a6b-893b-486565a8ab18
-nan,Unknown,âtoppyâ
-nan,Unknown,âstagâ
+Uncategorized,Unknown,âtoppyâ
+Uncategorized,Unknown,âstagâ
 person,Country_990614,Samuel Dunn
 person,Country_271835,John Avila
 organization,Unknown,2362
@@ -2118,7 +2118,7 @@ organization,Unknown,9979944
 organization,Unknown,4396031
 company,Country_271835,Simien Mountains  Company Delivery
 organization,Unknown,519852438
-nan,Unknown,âlegitimateâ
+Uncategorized,Unknown,âlegitimateâ
 person,Country_271835,William Kim
 person,Country_271835,Jeffrey Strong
 person,Country_271835,Susan Williams
@@ -2154,7 +2154,7 @@ event,Unknown,âWhatâs
 person,Country_271835,Brooke Hamilton
 person,Country_271835,Mrs. Katherine Clark
 person,Country_271835,Kathleen Benitez
-nan,Unknown,Easterlingsâ
+Uncategorized,Unknown,Easterlingsâ
 person,Country_271835,Seth Peters
 person,Country_271835,Kevin Butler
 location,Unknown,8851578d-3dd7-4430-8f73-b95305eb1f03
@@ -2185,7 +2185,7 @@ organization,Unknown,1983793
 location,Unknown,73db3de8-b968-40da-875c-7e57c678aa36
 organization,Unknown,800578
 organization,Unknown,254340176
-nan,Unknown,Attorneysâ
+Uncategorized,Unknown,Attorneysâ
 organization,Unknown,4332001
 political_organization,Unknown,9345
 person,Country_271835,Eric Rogers
@@ -2199,7 +2199,7 @@ organization,Unknown,218148
 person,Country_271835,Rebecca Walker
 location,Unknown,decfc924-5bdc-4fba-8bbd-bb57d8d478d9
 person,Polarisdom,Amanda Scott
-nan,Unknown,22 Raptor
+Uncategorized,Unknown,22 Raptor
 company,Polarisdom,Estrella del Mar Inc Merchants
 person,Country_271835,Gerald Washington
 person,Country_271835,Jessica Kelly
@@ -2224,17 +2224,17 @@ organization,Unknown,16306
 person,Country_271835,Sylvia Johnson
 person,Country_271835,Charles Fitzgerald
 location,Unknown,6eda4eb1-cdb8-4d61-8c72-fae33deb91a7
-nan,Unknown,Covid
+Uncategorized,Unknown,Covid
 location,Unknown,5fddadd0-71e7-4bdf-a471-daddd5f376b8
 location,Unknown,7ed038cd-64da-492f-a338-5c4636b91a2b
 organization,Unknown,80774
 location,Unknown,4b0f0611-34ce-4733-81af-391943e272c0
 person,Country_271835,Seth Kelley
-nan,Unknown,âFrontlineâ
+Uncategorized,Unknown,âFrontlineâ
 political_organization,Unknown,71084
 person,Country_271835,Wanda Collins
 person,Country_271835,Miguel Harrison
-nan,Unknown,ââ¯The
+Uncategorized,Unknown,ââ¯The
 location,Unknown,24e1e725-9a8e-489c-bbdd-0ce140fd6e3b
 person,Country_271835,Zachary Sellers
 location,Unknown,357987c8-3ecb-4e38-9f10-857007f2cd3b
@@ -2257,8 +2257,8 @@ location,Unknown,b840c9bf-2a5b-416c-91d9-1ecdd96425ab
 location,Unknown,4eddaaa4-6306-467e-a7f4-27a58559e535
 location,Unknown,ea6a6547-c93b-4f17-b037-200fa894289c
 location,Unknown,57c81b3c-882b-4824-91a0-7114be0fa5c7
-nan,Unknown,Survivorsâ
-nan,Unknown,Task Force
+Uncategorized,Unknown,Survivorsâ
+Uncategorized,Unknown,Task Force
 organization,Unknown,8541598
 political_organization,Unknown,828063
 organization,Unknown,5362
@@ -2273,7 +2273,7 @@ location,Unknown,88b35c10-45ae-4ded-ae4a-6cad038cfd91
 organization,Unknown,553828215
 organization,Unknown,663
 person,Country_271835,Lindsey Barr
-nan,Unknown,Filkinsâ
+Uncategorized,Unknown,Filkinsâ
 location,Unknown,90be60b1-61d8-4115-b133-e4c8e09383eb
 organization,Unknown,81211950
 organization,Unknown,52134252
@@ -2300,12 +2300,12 @@ organization,Unknown,33
 location,Unknown,14f1538d-29ed-43f4-ac8f-7a6ce01b9c00
 location,Unknown,2e579f6f-eca3-498d-a523-b1da1e85a5cf
 location,Unknown,06c85abe-f160-4a9f-bfb2-d58099a6be80
-nan,Unknown,Goliathâ
+Uncategorized,Unknown,Goliathâ
 person,Arreciviento,Joseph Hawkins
 location,Unknown,b8649055-5b40-43e1-ba33-93182cf978d4
 person,Country_945731,Linda Jones
-nan,Unknown,estÃ
-nan,Unknown,maÃ±ana asÃ
+Uncategorized,Unknown,estÃ
+Uncategorized,Unknown,maÃ±ana asÃ
 person,Country_271835,Caleb Webster
 organization,Unknown,739622
 organization,Unknown,7675191
@@ -2335,7 +2335,7 @@ political_organization,Unknown,51
 person,Oceanterra,Anna Ortiz
 location,Unknown,f810c631-9f7d-4219-ade0-b44c4c9abf62
 person,Country_214033,William Rivera
-nan,Unknown,Liibaan General Trading Co
+Uncategorized,Unknown,Liibaan General Trading Co
 person,Country_233547,Christopher Garrett
 location,Unknown,206e3508-bbef-4473-906a-88e3f17c57ae
 location,Unknown,db83c37f-86e4-4694-a81c-ede2a01aef71
@@ -2350,7 +2350,7 @@ political_organization,Unknown,431
 person,Zambalantis,Brenda Andrews
 location,Unknown,ee077c79-cc7b-4ac7-8c0b-d48f50538f61
 person,Oceanterra,Mark Hernandez PhD
-nan,Unknown,RPG
+Uncategorized,Unknown,RPG
 person,Country_271835,Sarah Garcia
 person,Country_271835,Jessica James
 location,Unknown,26794528-86a5-4b5e-802f-50c3f226c66b
@@ -2365,23 +2365,23 @@ person,Country_271835,Evelyn Pacheco
 person,Country_271835,Brianna Gregory
 organization,Unknown,914
 person,Country_271835,Brooke Collins
-nan,Unknown,Refugee Benefitsâ
+Uncategorized,Unknown,Refugee Benefitsâ
 person,Country_271835,Lori Weeks
 organization,Unknown,518323906
 person,Country_271835,Karen Burns
 person,Country_271835,Randall Newman
 location,Unknown,f656719b-783e-452b-801f-f60895068b23
 person,Country_271835,Scott Edwards
-nan,Unknown,âPerlaâ
-nan,Unknown,âEmanuelââif
+Uncategorized,Unknown,âPerlaâ
+Uncategorized,Unknown,âEmanuelââif
 person,Country_271835,Gina Armstrong DDS
-nan,Unknown,âRestrainâ
+Uncategorized,Unknown,âRestrainâ
 person,Country_271835,Walter Graham
 person,Country_907876,Ryan Jones
 person,Country_271835,Gabrielle Wade
 person,Country_11605,Patrick Cannon
 person,Country_907876,Jeanne Mills
-nan,Unknown,âExploitationâ
+Uncategorized,Unknown,âExploitationâ
 person,Country_271835,Austin Simpson
 person,Country_271835,Sarah Hays
 person,Country_271835,Richard Fleming
@@ -2389,10 +2389,10 @@ person,Country_271835,Melissa Gomez
 person,Country_271835,Daniel Frank
 location,Unknown,5890393d-3bb2-4f08-a460-4aa025e28de0
 location,Unknown,b1d6e468-f3c5-45f3-90a2-e76b2f329b2d
-nan,Unknown,Feb
+Uncategorized,Unknown,Feb
 organization,Unknown,164
-nan,Unknown,âdirect
-nan,Unknown,âdirectlyâ
+Uncategorized,Unknown,âdirect
+Uncategorized,Unknown,âdirectlyâ
 event,Unknown,âcriminally
 person,Country_271835,Terry Mcknight
 person,Country_271835,David Nielsen
@@ -2403,16 +2403,16 @@ person,Country_271835,Travis Rivera
 person,Country_271835,Larry Morrow
 person,Country_271835,Tammy Martin
 organization,Unknown,773
-nan,Unknown,wgbh
+Uncategorized,Unknown,wgbh
 political_organization,Unknown,436460757
 organization,Unknown,93865
-nan,Unknown,brianbushard
-nan,Unknown,siladityaray
+Uncategorized,Unknown,brianbushard
+Uncategorized,Unknown,siladityaray
 political_organization,Unknown,82517
 person,Country_271835,Robert Shaffer
 person,Country_663412,Jim Sims
 person,Country_663412,Laura Patterson
-nan,Unknown,âPerlaâ
+Uncategorized,Unknown,âPerlaâ
 person,Country_271835,Gary Palmer
 organization,Unknown,7674777
 person,Country_271835,Jeremy Woodard
@@ -2427,13 +2427,13 @@ person,Country_271835,Marvin Everett
 person,Country_271835,Matthew Sutton
 political_organization,Unknown,912077
 person,Country_271835,Brandon Thomas
-nan,Unknown,Mexicoââ
+Uncategorized,Unknown,Mexicoââ
 person,Country_271835,Joseph Williams
 political_organization,Unknown,176
 person,Country_271835,Scott Anderson
 person,Country_226679,Danielle Jensen
 person,Country_271835,Brian Brown
-nan,Unknown,âenticedâ
+Uncategorized,Unknown,âenticedâ
 organization,Unknown,8814
 organization,Unknown,139
 organization,Unknown,25851337
@@ -2443,20 +2443,20 @@ organization,Unknown,90831
 organization,Unknown,66820
 person,Country_271835,Kristen Martin
 location,Unknown,da71710a-9b0e-41d8-a9f6-a0b93f1ab772
-nan,Unknown,Ð°Ñ
-nan,Unknown,ÐœÐ° Ð±ÐŸÑÑ
-nan,Unknown,Ð£ÐºÑÐ°ÑÐœÐž
+Uncategorized,Unknown,Ð°Ñ
+Uncategorized,Unknown,ÐœÐ° Ð±ÐŸÑÑ
+Uncategorized,Unknown,Ð£ÐºÑÐ°ÑÐœÐž
 person,Country_271835,Janet Floyd
 person,Country_271835,Richard Anderson
-nan,Unknown,âCompromiseâ
-nan,Unknown,âPartnersâ
+Uncategorized,Unknown,âCompromiseâ
+Uncategorized,Unknown,âPartnersâ
 political_organization,Unknown,413760
 political_organization,Unknown,94047
 organization,Unknown,49525439
 person,Country_271835,Angela Hernandez
 person,Country_271835,Randy Logan
 person,Country_271835,Elizabeth Martin
-nan,Unknown,âtheoriginaldragoncoveâ
+Uncategorized,Unknown,âtheoriginaldragoncoveâ
 person,Country_271835,Aaron Bennett
 person,Country_271835,Kathleen Rowe
 person,Country_821432,Patrick Torres
@@ -2472,15 +2472,15 @@ organization,Unknown,3657479
 organization,Unknown,2810009
 organization,Unknown,129461
 company,Country_271835,Congo Rapids  Marine sanctuary GmbH & Co. KG Marine sanctuary
-nan,Unknown,âoriginaldragoncoveâ
-nan,Unknown,The Defendantsâ
+Uncategorized,Unknown,âoriginaldragoncoveâ
+Uncategorized,Unknown,The Defendantsâ
 location,Unknown,86ac9e66-f9e8-4f2b-ad17-39a52c23288c
 organization,Unknown,7443
 location,Unknown,5609469a-5721-4c94-92ed-ce7770055960
 organization,Unknown,775841
 person,Country_246944,Tiffany Stephens
 person,Country_271835,Veronica Lowe
-nan,Unknown,âNinoâ
+Uncategorized,Unknown,âNinoâ
 organization,Unknown,803490608
 location,Unknown,f4e17264-3b3c-48a6-86ba-d65622dc2f13
 person,Country_271835,Brent Young
@@ -2500,14 +2500,14 @@ location,Unknown,f383ad5f-7949-495e-8427-556b64decaca
 person,Country_271835,Michelle Aguilar
 company,Country_271835,Danish Lobster Limited Liability Company Brothers
 person,Country_271835,John Hernandez
-nan,Unknown,Texasâ
-nan,Unknown,Remarkable
+Uncategorized,Unknown,Texasâ
+Uncategorized,Unknown,Remarkable
 organization,Unknown,46901627
 organization,Unknown,46319064
-nan,Unknown,PÃ
+Uncategorized,Unknown,PÃ
 organization,Unknown,82651
 location,Unknown,2ec12718-97bf-45a6-aff5-2d1b9b11d29a
-nan,Unknown,âcommissionâ
+Uncategorized,Unknown,âcommissionâ
 person,Country_271835,Samantha Jackson
 person,Country_271835,Chelsey Woodard
 person,Oceanus,Nichole West
@@ -2529,16 +2529,16 @@ person,Country_271835,Ashley Johnson
 company,Country_271835,Greek Sea Bream and Son's
 organization,Unknown,558
 person,Country_271835,Shane Hahn
-nan,Unknown,âundeniableâ
+Uncategorized,Unknown,âundeniableâ
 event,Unknown,ârequested
 person,Country_271835,Jeffrey Reed
 organization,Unknown,55674
-nan,Unknown,âinconsistenciesâ
+Uncategorized,Unknown,âinconsistenciesâ
 person,Country_271835,Timothy Austin
 organization,Unknown,17353795
 organization,Unknown,540613204
 person,Country_271835,Matthew Flores
-nan,Unknown,âadjustingâ
+Uncategorized,Unknown,âadjustingâ
 person,Country_271835,Tammy Garcia
 person,Country_950691,Jamie Robinson
 organization,Unknown,352
@@ -2546,28 +2546,28 @@ person,Country_271835,James Knight
 organization,Unknown,662290
 movement,Unknown,In month
 company,Country_271835,Lachlan Enterprises Coral Reef
-nan,Unknown,âDesbloqueio pÃ
+Uncategorized,Unknown,âDesbloqueio pÃ
 person,Country_271835,Brian Dennis
 person,Country_271835,Frederick Kent
 person,Country_271835,Candice Brown
-nan,Unknown,âKikoâ
+Uncategorized,Unknown,âKikoâ
 organization,Unknown,309535101
 person,Country_271835,Nicholas Nguyen
 person,Country_271835,Vincent Cummings
 person,Country_271835,Tiffany Leonard
-nan,Unknown,tio MPFâs Special Action Group Combat Organized Crime
+Uncategorized,Unknown,tio MPFâs Special Action Group Combat Organized Crime
 organization,Unknown,51354617
 organization,Unknown,109071721
 organization,Unknown,869882172
 political_organization,Unknown,296837
 person,Country_271835,Laura Williams
 person,Country_271835,Sean George
-nan,Unknown,ExportaÃ
+Uncategorized,Unknown,ExportaÃ
 event,Unknown,ParÃ¡âs
 person,Arreciviento,Douglas Gordon
 person,Country_271835,James Thomas
 person,Country_271835,Kristi Miller
-nan,Unknown,âillegalâ
+Uncategorized,Unknown,âillegalâ
 company,Country_271835,Gambia River  GmbH & Co. KG and
 organization,Unknown,400
 organization,Unknown,2430986
@@ -2577,34 +2577,34 @@ company,Country_982684,Olas del Sur Inc
 organization,Unknown,5508215
 organization,Unknown,327572963
 organization,Unknown,438
-nan,Unknown,Hardwoodsâ
+Uncategorized,Unknown,Hardwoodsâ
 person,Country_746165,John Brown
 company,Country_271835,SeaSelect Foods Corp Dry dock
 person,Country_271835,Michael Flores
 person,Country_746165,Thomas Ramsey
-nan,Unknown,Meridaââ
-nan,Unknown,meridaâ
+Uncategorized,Unknown,Meridaââ
+Uncategorized,Unknown,meridaâ
 organization,Unknown,8251198
 organization,Unknown,7914
 person,Country_271835,Deborah Bell
 person,Country_271835,Jonathan Coleman
 person,Country_271835,Luis Rogers
-nan,Unknown,âBanderaâ
-nan,Unknown,âPadre
+Uncategorized,Unknown,âBanderaâ
+Uncategorized,Unknown,âPadre
 organization,Unknown,8269
 person,Arreciviento,Vanessa Chandler
 organization,Unknown,64545
 organization,Unknown,151159036
 organization,Unknown,3383
-nan,Unknown,Menardsâ
+Uncategorized,Unknown,Menardsâ
 person,Country_271835,Jason Garcia
 person,Country_670336,Melissa Gonzalez
 company,Country_246944,Pregolya Delivery Cruise ship
-nan,Unknown,Â£103
-nan,Unknown,Â£10
+Uncategorized,Unknown,Â£103
+Uncategorized,Unknown,Â£10
 location,Unknown,f64e747e-13de-4628-b939-92a8ff4eb03f
 person,Country_271835,Rachel Arnold
-nan,Unknown,âtigerâ
+Uncategorized,Unknown,âtigerâ
 person,Country_271835,Sharon Williams
 person,Country_271835,Donald Thomas
 person,Country_271835,Rebecca Anderson
@@ -2618,7 +2618,7 @@ person,Country_271835,Jonathan Moody
 person,Puerto del Mar,Kaitlyn Walsh
 person,Country_271835,Alison Nash
 person,Country_271835,Miranda Smith
-nan,Unknown,âminingâ
+Uncategorized,Unknown,âminingâ
 person,Country_271835,Jennifer Wilson MD
 organization,Unknown,6338
 location,Unknown,0d6a2f35-fccd-4cbf-865e-3ed08abb6a95
@@ -2633,18 +2633,18 @@ location,Unknown,68ac10aa-80a3-4b3c-99e5-f5708715ab2c
 person,Country_271835,Christopher Benitez
 event,Unknown,âThis
 event,Unknown,âSo
-nan,Unknown,Pitâ
+Uncategorized,Unknown,Pitâ
 person,Country_271835,John Martin
 person,Country_470077,Christopher Fields
 person,Country_271835,David Romero
 location,Unknown,a691bc0a-cfdc-4b2a-a38e-efcd2799ecd1
 organization,Unknown,28138
-nan,Unknown,âsnitch
+Uncategorized,Unknown,âsnitch
 organization,Unknown,3868221
 organization,Unknown,79521144
 person,Country_271835,Eugene Martin
 person,Country_271835,Emma Jones
-nan,Unknown,âbrokerâ
+Uncategorized,Unknown,âbrokerâ
 person,Country_271835,Cassandra Stanley
 organization,Unknown,198
 organization,Unknown,9768
@@ -2677,7 +2677,7 @@ person,Country_271835,Thomas Watkins
 company,Country_271835,Ancla del Mar Kga
 person,Country_271835,Joshua Park
 person,Country_271835,Sergio Ross
-nan,Unknown,Plattsâ
+Uncategorized,Unknown,Plattsâ
 person,Country_271835,Patricia Hunter
 vessel,Unknown,Deepwater Horizon
 organization,Unknown,455617
@@ -2709,7 +2709,7 @@ location,Unknown,9ce492a2-de6e-4231-a018-318fc929908b
 location,Unknown,ffb63251-ebdc-4346-b3a4-ef1515310806
 location,Unknown,675d95eb-69b7-4f8a-bd4e-af2cf4def162
 political_organization,Unknown,54056
-nan,Unknown,âDuare Rationâ
+Uncategorized,Unknown,âDuare Rationâ
 person,Country_271835,Robert Rodriguez
 person,Country_271835,Leslie Williams
 location,Unknown,da243ebe-ea98-4510-a6a8-add6679f9d1a
@@ -2779,7 +2779,7 @@ location,Unknown,114d2882-b620-4098-bb56-d865bbb85339
 person,Country_271835,Christopher Moore
 person,Country_271835,Sarah Williams
 vessel,Unknown,Kenworth 18-wheeler
-nan,Unknown,âsatisfactoryâ
+Uncategorized,Unknown,âsatisfactoryâ
 organization,Unknown,25777
 organization,Unknown,825
 organization,Unknown,63548588
@@ -2844,7 +2844,7 @@ organization,Unknown,99
 location,Unknown,1f8c20da-5f20-4116-907a-a653089bb8a0
 organization,Unknown,8832615
 organization,Unknown,5199
-nan,Unknown,âoverwhelmedâ
+Uncategorized,Unknown,âoverwhelmedâ
 location,Unknown,14525ad3-213a-406d-8e3e-64213f0be171
 person,Country_271835,Rachel Campbell
 person,Country_271835,Gregory Marsh
@@ -2903,7 +2903,7 @@ person,Country_271835,Brett Lee
 person,Country_271835,Noah Mitchell
 location,Unknown,037acfda-0d33-4ce8-8907-fe7da3e27dff
 person,Country_271835,Ronnie Gates
-nan,Unknown,âexemplaryâ
+Uncategorized,Unknown,âexemplaryâ
 location,Unknown,b120bc86-764c-4e2b-9f36-1587f91a20e3
 location,Unknown,4843b052-8f18-4298-9464-d780feb5ddad
 vessel,Unknown,scooter
@@ -2931,8 +2931,8 @@ location,Unknown,4294544a-9643-4cfd-97a0-ac656cb17e60
 person,Country_271835,Hannah Ray
 location,Unknown,c495290e-2de7-487d-a139-f273c4974539
 organization,Unknown,353361057
-nan,Unknown,Amstel Inc
-nan,Unknown,âHelpâ
+Uncategorized,Unknown,Amstel Inc
+Uncategorized,Unknown,âHelpâ
 organization,Unknown,35829746
 person,Country_271835,Charlotte Lopez
 person,Country_271835,Mark Scott
@@ -2941,13 +2941,13 @@ person,Country_271835,Nicholas King
 person,Country_271835,James Andrews
 person,Country_271835,Joshua Wright
 person,Country_271835,Mary Harrington
-nan,Unknown,âsleepy
+Uncategorized,Unknown,âsleepy
 political_organization,Unknown,67745773
 organization,Unknown,214883455
 person,Country_271835,Brett Moss
 location,Unknown,e69d4cb2-8bec-4496-8518-7426c6b9da65
 company,Country_271835,Kagera River  GmbH & Co. KG Delivery
-nan,Unknown,16
+Uncategorized,Unknown,16
 person,Country_271835,Holly Donaldson
 location,Unknown,c8026923-944a-4155-b2ec-e160135e0c47
 location,Unknown,58cf758d-a6f2-48ba-ac0c-89581ae6b4a5
@@ -2968,10 +2968,10 @@ person,Country_271835,Kendra Owens
 organization,Unknown,15
 organization,Unknown,805275
 location,Unknown,fcef975b-e382-4c81-8160-41bf9e5bf937
-nan,Unknown,âPublic Loaders
+Uncategorized,Unknown,âPublic Loaders
 organization,Unknown,715490
 organization,Unknown,14952
-nan,Unknown,âEQUIPMENTâ
+Uncategorized,Unknown,âEQUIPMENTâ
 organization,Unknown,353642
 person,Country_193919,Ronald Gray
 person,Country_928409,Debbie Ayala
@@ -2986,7 +2986,7 @@ company,Country_271835,Estrella del Sol LLC
 political_organization,Unknown,73470062
 person,Country_271835,Kenneth Fox
 organization,Unknown,777
-nan,Unknown,âshabuâ
+Uncategorized,Unknown,âshabuâ
 person,Country_271835,Rebecca Coleman
 organization,Unknown,868626239
 organization,Unknown,573756802
@@ -2997,7 +2997,7 @@ movement,Unknown,thirty days
 location,Unknown,c2d2e029-6f38-4148-9079-15615103cea6
 organization,Unknown,186
 person,Country_271835,Kristin Johnston
-nan,Unknown,âcrisisâ
+Uncategorized,Unknown,âcrisisâ
 organization,Unknown,812137
 location,Unknown,961bafd7-8d2b-405a-9c79-0f5345498cab
 organization,Unknown,5334
@@ -3007,24 +3007,24 @@ person,Country_271835,Diana Dawson
 person,Marebak,Courtney Johnson
 organization,Unknown,613556
 organization,Unknown,353
-nan,Unknown,Aicrowe Biotech Co
+Uncategorized,Unknown,Aicrowe Biotech Co
 location,Unknown,0f952ad7-6ecb-472e-8a30-895501a0e8c8
 organization,Unknown,9507963
 organization,Unknown,979294
 organization,Unknown,25222883
-nan,Unknown,Gaosheng Biotechnology Co
+Uncategorized,Unknown,Gaosheng Biotechnology Co
 location,Unknown,d2948905-9121-400b-905f-e449bf8ca35e
 vessel,Unknown,AirPods
 organization,Unknown,5246016
 organization,Unknown,64863263
 company,Country_271835,Danish Lobster Ltd. Liability Co
-nan,Unknown,076
-nan,Unknown,vansâ
+Uncategorized,Unknown,076
+Uncategorized,Unknown,vansâ
 organization,Unknown,36868
 organization,Unknown,3127062
 organization,Unknown,3369
 organization,Unknown,30880
-nan,Unknown,âDisastrousâ
+Uncategorized,Unknown,âDisastrousâ
 company,Country_271835,Lake Manyara  SRL Brothers
 location,Unknown,8ce9074f-2904-41ea-896a-5d932e06f54c
 location,Unknown,3d009ee1-0d95-4516-802f-8a5110bde01e
@@ -3042,7 +3042,7 @@ person,Country_271835,Travis Sparks
 person,Country_271835,Deborah Porter DDS
 location,Unknown,d4291c4b-873e-4830-b44a-85227fde3ee2
 person,Country_271835,Amanda Clayton
-nan,Unknown,âshark finâ
+Uncategorized,Unknown,âshark finâ
 organization,Unknown,70720996
 organization,Unknown,95291001
 organization,Unknown,42627990
@@ -3062,8 +3062,8 @@ person,Country_271835,Chris Booth
 movement,Unknown,July 2036
 person,Country_271835,Lisa Henderson
 person,Country_271835,Karen Delgado
-nan,Unknown,13d79d632036
-nan,Unknown,2037/09
+Uncategorized,Unknown,13d79d632036
+Uncategorized,Unknown,2037/09
 person,Country_615819,Melissa Norman
 person,Country_271835,Jennifer Andrade
 person,Country_271835,Lori Cummings
@@ -3076,17 +3076,17 @@ person,Country_271835,Alexis Smith
 person,Country_271835,Laura Smith
 person,Country_271835,Samantha Manning
 location,Unknown,6ed1a821-e669-41f4-8a02-df4c818ff22e
-nan,Unknown,2038650116
+Uncategorized,Unknown,2038650116
 location,Unknown,f1e84016-0f09-4907-a777-a6bb02b5f419
 location,Unknown,e916e286-85e5-4a43-b2ef-89ad5260ebdc
-nan,Unknown,sectors sectors 2033
-nan,Unknown,yearbook2034
-nan,Unknown,20370602035941
-nan,Unknown,yearbook2036
+Uncategorized,Unknown,sectors sectors 2033
+Uncategorized,Unknown,yearbook2034
+Uncategorized,Unknown,20370602035941
+Uncategorized,Unknown,yearbook2036
 location,Unknown,b8567859-bf54-49fd-8332-5775e19c65af
-nan,Unknown,2036-06
+Uncategorized,Unknown,2036-06
 person,Country_271835,Hannah Walter
-nan,Unknown,2035/03
+Uncategorized,Unknown,2035/03
 location,Unknown,b8f8208c-0388-484e-a700-b4c265170827
 location,Unknown,1aa47ffc-05a8-4edd-a8e0-94c10b650bd8
 person,Country_271835,Kelly Mccarthy
@@ -3094,7 +3094,7 @@ person,Country_271835,Frederick Taylor
 location,Unknown,ec4af8c8-1ff1-4aaa-9431-7697d930b3f4
 person,Country_271835,Ray Howard
 event,Unknown,2036âs
-nan,Unknown,faf.20363
+Uncategorized,Unknown,faf.20363
 person,Country_271835,Joshua Landry
 person,Country_271835,Joy Anderson
 location,Unknown,3eed159b-e98e-4f8a-98c2-c34341435411
@@ -3102,7 +3102,7 @@ political_organization,Unknown,3190258
 person,Country_271835,David Frederick
 person,Country_271835,Curtis Grant
 location,Unknown,4f533d76-17d7-4b95-86b5-106503c99b0c
-nan,Unknown,2030â
+Uncategorized,Unknown,2030â
 person,Country_271835,Lindsay Bennett
 location,Unknown,e631b105-4953-43e1-8d37-a3ab5dd3d860
 location,Unknown,f514483d-fb5f-4cb2-bb8d-b616b10336d8
@@ -3115,315 +3115,315 @@ person,Country_271835,Raymond Howell
 person,Country_271835,Jason Huff
 organization,Unknown,FishEye International
 company,Country_286580,AquaFresh Foods CJSC -
-nan,Unknown,Ancla Azul Company Solutions
-nan,Unknown,âpair
-nan,Unknown,Guessl
-nan,Unknown,Federated
-nan,Unknown,FinestSea Ltd. Corporation Enterprises
-nan,Unknown,Icelandic Shrimp Corporation Transport
-nan,Unknown,Lake Mweru A/S Carriers
-nan,Unknown,Playa de la Felicidad Oyj Cargo
-nan,Unknown,l y S.A. de C.V. International
-nan,Unknown,SeaSpray Wave SRL Solutions
-nan,Unknown,Ocean Fisheries Llc
-nan,Unknown,Ancla del Mar Ltd. Corporation
-nan,Unknown,Tamil Nadu S.p.A.
-nan,Unknown,Fisherman'sFriend Charter Boat S.A. de C.V. Freight 
-nan,Unknown,FiTI
-nan,Unknown,Victoria
-nan,Unknown,Master
-nan,Unknown,Faurtil FÃ¡brica Urnas TietÃª
-nan,Unknown,Turkish Mussels Ltd. Liability Co Marine biology
-nan,Unknown,Mar del Paraso SRL Shipping
-nan,Unknown,New Bedford Light
-nan,Unknown,Sonia Fisheries Pvt
-nan,Unknown,Pesquera
-nan,Unknown,DOFâs
-nan,Unknown,Irish Sea Seaside GmbH & Co. KG Distribution
-nan,Unknown,Uttar Pradesh Sp
-nan,Unknown,Estrella de Coral Ltd. Corporation Logistics
-nan,Unknown,Gulf of Guinea  Corporation
-nan,Unknown,Seabreeze Foods Corporation Logistics
-nan,Unknown,âDo
-nan,Unknown,Dry Creek S.p.A. Overseas
-nan,Unknown,Meere Delpeuch
-nan,Unknown,Kerala Market Limited Liability Company
-nan,Unknown,Pasture Petfoods New Zealand Ltd
-nan,Unknown,Tanzania
-nan,Unknown,Reunion
-nan,Unknown,Ht Shipping
-nan,Unknown,Selena Building
-nan,Unknown,Playa de la Felicidad NV
-nan,Unknown,âIllegal
-nan,Unknown,IMPORT
-nan,Unknown,Fishing International
-nan,Unknown,âVirginia
-nan,Unknown,Electronic
-nan,Unknown,Fish Sea
-nan,Unknown,Sea Products
-nan,Unknown,W Appliance
-nan,Unknown,McLeanâs
-nan,Unknown,American
-nan,Unknown,Finest Ltd. Liability Co United
-nan,Unknown,Ex-Lax
-nan,Unknown,Fishisland
-nan,Unknown,Jammu & Kashmir Limited Liability Company Delivery
-nan,Unknown,heâs
-nan,Unknown,ânoncitizen
-nan,Unknown,âGenev
-nan,Unknown,Oceanfront Oasis Inc Carriers
-nan,Unknown,Qingdao Kaiyuan Seafoods
-nan,Unknown,West Bengal SRL Marine conservation
-nan,Unknown,Platts Oilgram
-nan,Unknown,Kerala Market Corp Consulting
-nan,Unknown,Mar de la Vida OJSC
-nan,Unknown,America
-nan,Unknown,Portuguese Octopus S.p.A. Cargo
-nan,Unknown,Surf and Sand Ltd. Liability Co
-nan,Unknown,West Bengal S.A. de C.V.
-nan,Unknown,Partnership satellite
-nan,Unknown,Seafood
-nan,Unknown,Caribbean
-nan,Unknown,XUAR
-nan,Unknown,Fisheries Inc
-nan,Unknown,Getis-Ord
-nan,Unknown,World Church Power God
-nan,Unknown,Rama Overseas
-nan,Unknown,Estrella de Mar Limited Liability Company Delivery
-nan,Unknown,Bergmanâs
-nan,Unknown,Conduct Joint
-nan,Unknown,Seabreeze Foods Ltd. Corporation United
-nan,Unknown,Kilimanjaro fishery Ltd. Liability Co Transport
-nan,Unknown,Isa
-nan,Unknown,Barco de Plata Ltd Logistics
-nan,Unknown,Lake Malawi LC Forwading
-nan,Unknown,Water World LLC Express
-nan,Unknown,âTrials
-nan,Unknown,BPâs
-nan,Unknown,FLIP MCGYVER Tradema
-nan,Unknown,Shellfish Chile SA
-nan,Unknown,IPOS0000DOP
-nan,Unknown,Temuâs
-nan,Unknown,Firearms Explosives
-nan,Unknown,IAVMs
-nan,Unknown,Cartel Emergent Weaponry Use
-nan,Unknown,Ejintex International
-nan,Unknown,Asia Seafood
-nan,Unknown,Andhra Pradesh  S.A. de C.V.
-nan,Unknown,AtlantoâScandian
-nan,Unknown,Trammellâs
-nan,Unknown,Moo
-nan,Unknown,Eva
-nan,Unknown,Salles Operation Handroanthus
-nan,Unknown,Blue Water Ventures Ltd. Liability Co
-nan,Unknown,Mar de Cristalino Co
-nan,Unknown,SaltwaterSavor Shipyard LC Merchants
-nan,Unknown,OceanKings Sailor Corp Logistics
-nan,Unknown,Debit Cards Autopay
-nan,Unknown,Mar de la Costa Ges.m.b.H.
-nan,Unknown,âsuffered
-nan,Unknown,Orient
-nan,Unknown,OceanicHarvest Dry dock N.V. Delivery
-nan,Unknown,itâs
-nan,Unknown,Rafaelâs
-nan,Unknown,Madhya Pradesh Market BV
-nan,Unknown,âCompliance
-nan,Unknown,Blue Bay
-nan,Unknown,Innovative
-nan,Unknown,Lake Malawi SE Freight 
-nan,Unknown,Caspian Sea  Sea Corporation Freight 
-nan,Unknown,Yu gan BV Investment
-nan,Unknown,Thai Union Seafood
-nan,Unknown,Okavango Delta Seaside Limited Liability Company Logistics
-nan,Unknown,sh rn y Corporation
-nan,Unknown,Ocean Trawlers
-nan,Unknown,Belgian Scallop Limited Liability Company Krill
-nan,Unknown,Sea Harvest
-nan,Unknown,SMILE
-nan,Unknown,Haryana s Co Transit
-nan,Unknown,â¢
-nan,Unknown,DOFâs Long Xing
-nan,Unknown,Insung
-nan,Unknown,Chuan gou Company Overseas
-nan,Unknown,Petroleum Vapor Intrusion
-nan,Unknown,Energotrade Plus
-nan,Unknown,Intrepid Navigators
-nan,Unknown,Blue Venturew
-nan,Unknown,The Salty Dog Tidepool Kga Transport
-nan,Unknown,Madhya Pradesh Market Ltd Solutions
-nan,Unknown,Scottish Trout Limited Liability Company Transit
-nan,Unknown,Gen International
-nan,Unknown,MeWe Vimeo
-nan,Unknown,Four
-nan,Unknown,II
-nan,Unknown,Bloomberg
-nan,Unknown,Ntaco
-nan,Unknown,SVBâs
-nan,Unknown,United Bankx
-nan,Unknown,Golden Titana
-nan,Unknown,Sea Breezes GmbH & Co. KG Lighthouse
-nan,Unknown,Mar de Plata Corp and Son's
-nan,Unknown,Rs
-nan,Unknown,Irish Sea SRL Brothers
-nan,Unknown,Barco de Plata Plc
-nan,Unknown,Thomas Corp Cargo ship
-nan,Unknown,Blue Lagoon Sailor Limited Liability Company Worldwide
-nan,Unknown,Amorim Flooring
-nan,Unknown,Edward Ferry SE Transportation
-nan,Unknown,Â£1
-nan,Unknown,Stock SA
-nan,Unknown,Forwading S.A. de C.V.
-nan,Unknown,OceanicOrigin Foods River AG Marine ecology
-nan,Unknown,Ware
-nan,Unknown,Arctic
-nan,Unknown,Niger River Delta Ges.m.b.H. Services
-nan,Unknown,ROBYN BECK
-nan,Unknown,Bay of Bengal's Incorporated
-nan,Unknown,Aqua Ambassadors Limited Liability Company
-nan,Unknown,Sea Luxe Oceanography Kga Transportation
-nan,Unknown,Mongabayâs
-nan,Unknown,Fresh Atlantic
-nan,Unknown,Sunâs
-nan,Unknown,Costa del Mar S.p.A.
-nan,Unknown,OJSC Ltd. Liability Co
-nan,Unknown,Mount Kenya Estuary Sp Holdings
-nan,Unknown,âPokÃ©mon
-nan,Unknown,Ryabikova
-nan,Unknown,âbracatinga
-nan,Unknown,I6aE01vDFm
-nan,Unknown,Puerta
-nan,Unknown,Next Day
-nan,Unknown,Seaside Sojourns A/S Shipping
-nan,Unknown,Food
-nan,Unknown,Guaranteed Income Program New Parents 2035
-nan,Unknown,Image ArtTower
-nan,Unknown,Nile Crocodile Deep-sea Oyj Brothers
-nan,Unknown,VyoummBnVY
-nan,Unknown,Blue Water Ventures Kga
-nan,Unknown,Bloomberg Law
-nan,Unknown,âCinder
-nan,Unknown,Kariba Dam  N.V. Brothers
-nan,Unknown,Mitsubishi
-nan,Unknown,Tuna Vietnam
-nan,Unknown,Estrella del Mar Plc
-nan,Unknown,Marine Foods
-nan,Unknown,Agua TransiciÃ³n EcolÃ³gica
-nan,Unknown,Arunachal Pradesh Sp Marine mist
-nan,Unknown,Chuan gou Corporation Transportation
-nan,Unknown,Nautical Navigators Kga United
-nan,Unknown,3 Ltd. Liability Co
-nan,Unknown,Lf Beauty
-nan,Unknown,Playa de Coral Oyj International
-nan,Unknown,Metro Marinen
-nan,Unknown,Surf and Sea International Tidepool
-nan,Unknown,The Salty Dog CJSC
-nan,Unknown,Paul S.A. de C.V.
-nan,Unknown,Comei&Co
-nan,Unknown,Rickard shrimp
-nan,Unknown,Hudsons Bay
-nan,Unknown,Group Co Marine life
-nan,Unknown,STL
-nan,Unknown,Odisha Sea Dry dock LLC Consultants
-nan,Unknown,USINC
-nan,Unknown,The Ashey
-nan,Unknown,Green
-nan,Unknown,Dark Web Vendor Illegal Narcotics
-nan,Unknown,Heroin Cocaine Exchange Bitcoin
-nan,Unknown,Farmers
-nan,Unknown,FiTIâs
-nan,Unknown,Jharkhand s GmbH & Co. KG
-nan,Unknown,Phillips
-nan,Unknown,6 Ray LLC Enterprises
-nan,Unknown,Prod
-nan,Unknown,Pinduoduoâs
-nan,Unknown,Auraâs
-nan,Unknown,McGovern BBB
-nan,Unknown,Rose
-nan,Unknown,drayage companies
-nan,Unknown,Savaneta Corporation Marine life
-nan,Unknown,Michael Limited Liability Company
-nan,Unknown,Irtysh - Inc Distribution
-nan,Unknown,East
-nan,Unknown,Fresh On Time Seafood
-nan,Unknown,MAT
-nan,Unknown,Faroe Islands Halibut A/S
-nan,Unknown,Teion Internationala
-nan,Unknown,Single Seafood
-nan,Unknown,âUS
-nan,Unknown,Welding
-nan,Unknown,Basketball
-nan,Unknown,Ocean Packers
-nan,Unknown,Improvised Anti
-nan,Unknown,Orange River  AS Logistics
-nan,Unknown,Ste
-nan,Unknown,French Ltd. Corporation Surfboard
-nan,Unknown,Andhra Pradesh  Investment Dry dock
-nan,Unknown,Uber Connect
-nan,Unknown,Pb Brasil Industries
-nan,Unknown,Deep Sea Atlantic NV
-nan,Unknown,Supreme GmbH & Co. KG Consulting
-nan,Unknown,gu y LC Shipping
-nan,Unknown,Ningbo China Base Landhau Foreign
-nan,Unknown,Estrella del Mar Pic
-nan,Unknown,Artemovâs Ava Petroleum
-nan,Unknown,Spanish Red Snapper GmbH Shipping
-nan,Unknown,Officer Pleads Guilty
-nan,Unknown,Bribes Exchange Smuggling Contraband
-nan,Unknown,Sp
-nan,Unknown,Memphis Women
-nan,Unknown,One Hongn
-nan,Unknown,Evergreen
-nan,Unknown,Himachal Pradesh Aquatic Plc Brothers
-nan,Unknown,Lake Tanganyika Sea AS Shipping
-nan,Unknown,Nagaland Sea Ltd. Liability Co &
-nan,Unknown,Estrella de la Costa  Consultants
-nan,Unknown,Kores De Venezuela C A
-nan,Unknown,CP World
-nan,Unknown,Tombow
-nan,Unknown,Gelita Gelatine
-nan,Unknown,Yale
-nan,Unknown,Faroe Islands Plc Investment
-nan,Unknown,East Ltd. Corporation Investment
-nan,Unknown,Logistics
-nan,Unknown,Dispenseroo
-nan,Unknown,80 Percent Arms
-nan,Unknown,CM Nationali
-nan,Unknown,Anthony Sailboat Co Shipping
-nan,Unknown,MV
-nan,Unknown,Costa de Coral Charter Boat Oyj Overseas
-nan,Unknown,Warner
-nan,Unknown,Alpha Brokersa
-nan,Unknown,Viktorâs
-nan,Unknown,Sea Seekers Merchants Cruise ship
-nan,Unknown,NFTs
-nan,Unknown,Cargo Systemsi
-nan,Unknown,Ocano del Este Corp Freight 
-nan,Unknown,Ronald
-nan,Unknown,C Express
-nan,Unknown,Znamensk Eel LLC United
-nan,Unknown,Sisdof/Sinaflor
-nan,Unknown,Spanish Shrimp Sp Brothers
-nan,Unknown,Tajima Industrues Ltd
-nan,Unknown,Zerzaâs
-nan,Unknown,IndÃºstria Madeireira Uliana
-nan,Unknown,Sms
-nan,Unknown,Semas 260 Rural
-nan,Unknown,Dolphin Dreams S.A. de C.V. Seafood
-nan,Unknown,All
-nan,Unknown,Cab Incorportated
-nan,Unknown,Sikkim S.A. de C.V.
-nan,Unknown,Yeezy
-nan,Unknown,Kagera River  Company Solutions
-nan,Unknown,Marmooska Shipyard Sagl United
-nan,Unknown,Leo
-nan,Unknown,W&O Supply
-nan,Unknown,Greek Sea Bream Limited Liability Company Transit
-nan,Unknown,David S.A. de C.V. Brothers
-nan,Unknown,Haryana s Ltd. Corporation Carriers
-nan,Unknown,Coral Reef Sagl Transport
-nan,Unknown,Felbab-Brown
-nan,Unknown,OzonActionâs
-nan,Unknown,âEntirely
-nan,Unknown,Ocano del Este SE
-nan,Unknown,Norwegian Shrimp N.V. -
-nan,Unknown,Malabar Sea Catch Sp
+Uncategorized,Unknown,Ancla Azul Company Solutions
+Uncategorized,Unknown,âpair
+Uncategorized,Unknown,Guessl
+Uncategorized,Unknown,Federated
+Uncategorized,Unknown,FinestSea Ltd. Corporation Enterprises
+Uncategorized,Unknown,Icelandic Shrimp Corporation Transport
+Uncategorized,Unknown,Lake Mweru A/S Carriers
+Uncategorized,Unknown,Playa de la Felicidad Oyj Cargo
+Uncategorized,Unknown,l y S.A. de C.V. International
+Uncategorized,Unknown,SeaSpray Wave SRL Solutions
+Uncategorized,Unknown,Ocean Fisheries Llc
+Uncategorized,Unknown,Ancla del Mar Ltd. Corporation
+Uncategorized,Unknown,Tamil Nadu S.p.A.
+Uncategorized,Unknown,Fisherman'sFriend Charter Boat S.A. de C.V. Freight 
+Uncategorized,Unknown,FiTI
+Uncategorized,Unknown,Victoria
+Uncategorized,Unknown,Master
+Uncategorized,Unknown,Faurtil FÃ¡brica Urnas TietÃª
+Uncategorized,Unknown,Turkish Mussels Ltd. Liability Co Marine biology
+Uncategorized,Unknown,Mar del Paraso SRL Shipping
+Uncategorized,Unknown,New Bedford Light
+Uncategorized,Unknown,Sonia Fisheries Pvt
+Uncategorized,Unknown,Pesquera
+Uncategorized,Unknown,DOFâs
+Uncategorized,Unknown,Irish Sea Seaside GmbH & Co. KG Distribution
+Uncategorized,Unknown,Uttar Pradesh Sp
+Uncategorized,Unknown,Estrella de Coral Ltd. Corporation Logistics
+Uncategorized,Unknown,Gulf of Guinea  Corporation
+Uncategorized,Unknown,Seabreeze Foods Corporation Logistics
+Uncategorized,Unknown,âDo
+Uncategorized,Unknown,Dry Creek S.p.A. Overseas
+Uncategorized,Unknown,Meere Delpeuch
+Uncategorized,Unknown,Kerala Market Limited Liability Company
+Uncategorized,Unknown,Pasture Petfoods New Zealand Ltd
+Uncategorized,Unknown,Tanzania
+Uncategorized,Unknown,Reunion
+Uncategorized,Unknown,Ht Shipping
+Uncategorized,Unknown,Selena Building
+Uncategorized,Unknown,Playa de la Felicidad NV
+Uncategorized,Unknown,âIllegal
+Uncategorized,Unknown,IMPORT
+Uncategorized,Unknown,Fishing International
+Uncategorized,Unknown,âVirginia
+Uncategorized,Unknown,Electronic
+Uncategorized,Unknown,Fish Sea
+Uncategorized,Unknown,Sea Products
+Uncategorized,Unknown,W Appliance
+Uncategorized,Unknown,McLeanâs
+Uncategorized,Unknown,American
+Uncategorized,Unknown,Finest Ltd. Liability Co United
+Uncategorized,Unknown,Ex-Lax
+Uncategorized,Unknown,Fishisland
+Uncategorized,Unknown,Jammu & Kashmir Limited Liability Company Delivery
+Uncategorized,Unknown,heâs
+Uncategorized,Unknown,ânoncitizen
+Uncategorized,Unknown,âGenev
+Uncategorized,Unknown,Oceanfront Oasis Inc Carriers
+Uncategorized,Unknown,Qingdao Kaiyuan Seafoods
+Uncategorized,Unknown,West Bengal SRL Marine conservation
+Uncategorized,Unknown,Platts Oilgram
+Uncategorized,Unknown,Kerala Market Corp Consulting
+Uncategorized,Unknown,Mar de la Vida OJSC
+Uncategorized,Unknown,America
+Uncategorized,Unknown,Portuguese Octopus S.p.A. Cargo
+Uncategorized,Unknown,Surf and Sand Ltd. Liability Co
+Uncategorized,Unknown,West Bengal S.A. de C.V.
+Uncategorized,Unknown,Partnership satellite
+Uncategorized,Unknown,Seafood
+Uncategorized,Unknown,Caribbean
+Uncategorized,Unknown,XUAR
+Uncategorized,Unknown,Fisheries Inc
+Uncategorized,Unknown,Getis-Ord
+Uncategorized,Unknown,World Church Power God
+Uncategorized,Unknown,Rama Overseas
+Uncategorized,Unknown,Estrella de Mar Limited Liability Company Delivery
+Uncategorized,Unknown,Bergmanâs
+Uncategorized,Unknown,Conduct Joint
+Uncategorized,Unknown,Seabreeze Foods Ltd. Corporation United
+Uncategorized,Unknown,Kilimanjaro fishery Ltd. Liability Co Transport
+Uncategorized,Unknown,Isa
+Uncategorized,Unknown,Barco de Plata Ltd Logistics
+Uncategorized,Unknown,Lake Malawi LC Forwading
+Uncategorized,Unknown,Water World LLC Express
+Uncategorized,Unknown,âTrials
+Uncategorized,Unknown,BPâs
+Uncategorized,Unknown,FLIP MCGYVER Tradema
+Uncategorized,Unknown,Shellfish Chile SA
+Uncategorized,Unknown,IPOS0000DOP
+Uncategorized,Unknown,Temuâs
+Uncategorized,Unknown,Firearms Explosives
+Uncategorized,Unknown,IAVMs
+Uncategorized,Unknown,Cartel Emergent Weaponry Use
+Uncategorized,Unknown,Ejintex International
+Uncategorized,Unknown,Asia Seafood
+Uncategorized,Unknown,Andhra Pradesh  S.A. de C.V.
+Uncategorized,Unknown,AtlantoâScandian
+Uncategorized,Unknown,Trammellâs
+Uncategorized,Unknown,Moo
+Uncategorized,Unknown,Eva
+Uncategorized,Unknown,Salles Operation Handroanthus
+Uncategorized,Unknown,Blue Water Ventures Ltd. Liability Co
+Uncategorized,Unknown,Mar de Cristalino Co
+Uncategorized,Unknown,SaltwaterSavor Shipyard LC Merchants
+Uncategorized,Unknown,OceanKings Sailor Corp Logistics
+Uncategorized,Unknown,Debit Cards Autopay
+Uncategorized,Unknown,Mar de la Costa Ges.m.b.H.
+Uncategorized,Unknown,âsuffered
+Uncategorized,Unknown,Orient
+Uncategorized,Unknown,OceanicHarvest Dry dock N.V. Delivery
+Uncategorized,Unknown,itâs
+Uncategorized,Unknown,Rafaelâs
+Uncategorized,Unknown,Madhya Pradesh Market BV
+Uncategorized,Unknown,âCompliance
+Uncategorized,Unknown,Blue Bay
+Uncategorized,Unknown,Innovative
+Uncategorized,Unknown,Lake Malawi SE Freight 
+Uncategorized,Unknown,Caspian Sea  Sea Corporation Freight 
+Uncategorized,Unknown,Yu gan BV Investment
+Uncategorized,Unknown,Thai Union Seafood
+Uncategorized,Unknown,Okavango Delta Seaside Limited Liability Company Logistics
+Uncategorized,Unknown,sh rn y Corporation
+Uncategorized,Unknown,Ocean Trawlers
+Uncategorized,Unknown,Belgian Scallop Limited Liability Company Krill
+Uncategorized,Unknown,Sea Harvest
+Uncategorized,Unknown,SMILE
+Uncategorized,Unknown,Haryana s Co Transit
+Uncategorized,Unknown,â¢
+Uncategorized,Unknown,DOFâs Long Xing
+Uncategorized,Unknown,Insung
+Uncategorized,Unknown,Chuan gou Company Overseas
+Uncategorized,Unknown,Petroleum Vapor Intrusion
+Uncategorized,Unknown,Energotrade Plus
+Uncategorized,Unknown,Intrepid Navigators
+Uncategorized,Unknown,Blue Venturew
+Uncategorized,Unknown,The Salty Dog Tidepool Kga Transport
+Uncategorized,Unknown,Madhya Pradesh Market Ltd Solutions
+Uncategorized,Unknown,Scottish Trout Limited Liability Company Transit
+Uncategorized,Unknown,Gen International
+Uncategorized,Unknown,MeWe Vimeo
+Uncategorized,Unknown,Four
+Uncategorized,Unknown,II
+Uncategorized,Unknown,Bloomberg
+Uncategorized,Unknown,Ntaco
+Uncategorized,Unknown,SVBâs
+Uncategorized,Unknown,United Bankx
+Uncategorized,Unknown,Golden Titana
+Uncategorized,Unknown,Sea Breezes GmbH & Co. KG Lighthouse
+Uncategorized,Unknown,Mar de Plata Corp and Son's
+Uncategorized,Unknown,Rs
+Uncategorized,Unknown,Irish Sea SRL Brothers
+Uncategorized,Unknown,Barco de Plata Plc
+Uncategorized,Unknown,Thomas Corp Cargo ship
+Uncategorized,Unknown,Blue Lagoon Sailor Limited Liability Company Worldwide
+Uncategorized,Unknown,Amorim Flooring
+Uncategorized,Unknown,Edward Ferry SE Transportation
+Uncategorized,Unknown,Â£1
+Uncategorized,Unknown,Stock SA
+Uncategorized,Unknown,Forwading S.A. de C.V.
+Uncategorized,Unknown,OceanicOrigin Foods River AG Marine ecology
+Uncategorized,Unknown,Ware
+Uncategorized,Unknown,Arctic
+Uncategorized,Unknown,Niger River Delta Ges.m.b.H. Services
+Uncategorized,Unknown,ROBYN BECK
+Uncategorized,Unknown,Bay of Bengal's Incorporated
+Uncategorized,Unknown,Aqua Ambassadors Limited Liability Company
+Uncategorized,Unknown,Sea Luxe Oceanography Kga Transportation
+Uncategorized,Unknown,Mongabayâs
+Uncategorized,Unknown,Fresh Atlantic
+Uncategorized,Unknown,Sunâs
+Uncategorized,Unknown,Costa del Mar S.p.A.
+Uncategorized,Unknown,OJSC Ltd. Liability Co
+Uncategorized,Unknown,Mount Kenya Estuary Sp Holdings
+Uncategorized,Unknown,âPokÃ©mon
+Uncategorized,Unknown,Ryabikova
+Uncategorized,Unknown,âbracatinga
+Uncategorized,Unknown,I6aE01vDFm
+Uncategorized,Unknown,Puerta
+Uncategorized,Unknown,Next Day
+Uncategorized,Unknown,Seaside Sojourns A/S Shipping
+Uncategorized,Unknown,Food
+Uncategorized,Unknown,Guaranteed Income Program New Parents 2035
+Uncategorized,Unknown,Image ArtTower
+Uncategorized,Unknown,Nile Crocodile Deep-sea Oyj Brothers
+Uncategorized,Unknown,VyoummBnVY
+Uncategorized,Unknown,Blue Water Ventures Kga
+Uncategorized,Unknown,Bloomberg Law
+Uncategorized,Unknown,âCinder
+Uncategorized,Unknown,Kariba Dam  N.V. Brothers
+Uncategorized,Unknown,Mitsubishi
+Uncategorized,Unknown,Tuna Vietnam
+Uncategorized,Unknown,Estrella del Mar Plc
+Uncategorized,Unknown,Marine Foods
+Uncategorized,Unknown,Agua TransiciÃ³n EcolÃ³gica
+Uncategorized,Unknown,Arunachal Pradesh Sp Marine mist
+Uncategorized,Unknown,Chuan gou Corporation Transportation
+Uncategorized,Unknown,Nautical Navigators Kga United
+Uncategorized,Unknown,3 Ltd. Liability Co
+Uncategorized,Unknown,Lf Beauty
+Uncategorized,Unknown,Playa de Coral Oyj International
+Uncategorized,Unknown,Metro Marinen
+Uncategorized,Unknown,Surf and Sea International Tidepool
+Uncategorized,Unknown,The Salty Dog CJSC
+Uncategorized,Unknown,Paul S.A. de C.V.
+Uncategorized,Unknown,Comei&Co
+Uncategorized,Unknown,Rickard shrimp
+Uncategorized,Unknown,Hudsons Bay
+Uncategorized,Unknown,Group Co Marine life
+Uncategorized,Unknown,STL
+Uncategorized,Unknown,Odisha Sea Dry dock LLC Consultants
+Uncategorized,Unknown,USINC
+Uncategorized,Unknown,The Ashey
+Uncategorized,Unknown,Green
+Uncategorized,Unknown,Dark Web Vendor Illegal Narcotics
+Uncategorized,Unknown,Heroin Cocaine Exchange Bitcoin
+Uncategorized,Unknown,Farmers
+Uncategorized,Unknown,FiTIâs
+Uncategorized,Unknown,Jharkhand s GmbH & Co. KG
+Uncategorized,Unknown,Phillips
+Uncategorized,Unknown,6 Ray LLC Enterprises
+Uncategorized,Unknown,Prod
+Uncategorized,Unknown,Pinduoduoâs
+Uncategorized,Unknown,Auraâs
+Uncategorized,Unknown,McGovern BBB
+Uncategorized,Unknown,Rose
+Uncategorized,Unknown,drayage companies
+Uncategorized,Unknown,Savaneta Corporation Marine life
+Uncategorized,Unknown,Michael Limited Liability Company
+Uncategorized,Unknown,Irtysh - Inc Distribution
+Uncategorized,Unknown,East
+Uncategorized,Unknown,Fresh On Time Seafood
+Uncategorized,Unknown,MAT
+Uncategorized,Unknown,Faroe Islands Halibut A/S
+Uncategorized,Unknown,Teion Internationala
+Uncategorized,Unknown,Single Seafood
+Uncategorized,Unknown,âUS
+Uncategorized,Unknown,Welding
+Uncategorized,Unknown,Basketball
+Uncategorized,Unknown,Ocean Packers
+Uncategorized,Unknown,Improvised Anti
+Uncategorized,Unknown,Orange River  AS Logistics
+Uncategorized,Unknown,Ste
+Uncategorized,Unknown,French Ltd. Corporation Surfboard
+Uncategorized,Unknown,Andhra Pradesh  Investment Dry dock
+Uncategorized,Unknown,Uber Connect
+Uncategorized,Unknown,Pb Brasil Industries
+Uncategorized,Unknown,Deep Sea Atlantic NV
+Uncategorized,Unknown,Supreme GmbH & Co. KG Consulting
+Uncategorized,Unknown,gu y LC Shipping
+Uncategorized,Unknown,Ningbo China Base Landhau Foreign
+Uncategorized,Unknown,Estrella del Mar Pic
+Uncategorized,Unknown,Artemovâs Ava Petroleum
+Uncategorized,Unknown,Spanish Red Snapper GmbH Shipping
+Uncategorized,Unknown,Officer Pleads Guilty
+Uncategorized,Unknown,Bribes Exchange Smuggling Contraband
+Uncategorized,Unknown,Sp
+Uncategorized,Unknown,Memphis Women
+Uncategorized,Unknown,One Hongn
+Uncategorized,Unknown,Evergreen
+Uncategorized,Unknown,Himachal Pradesh Aquatic Plc Brothers
+Uncategorized,Unknown,Lake Tanganyika Sea AS Shipping
+Uncategorized,Unknown,Nagaland Sea Ltd. Liability Co &
+Uncategorized,Unknown,Estrella de la Costa  Consultants
+Uncategorized,Unknown,Kores De Venezuela C A
+Uncategorized,Unknown,CP World
+Uncategorized,Unknown,Tombow
+Uncategorized,Unknown,Gelita Gelatine
+Uncategorized,Unknown,Yale
+Uncategorized,Unknown,Faroe Islands Plc Investment
+Uncategorized,Unknown,East Ltd. Corporation Investment
+Uncategorized,Unknown,Logistics
+Uncategorized,Unknown,Dispenseroo
+Uncategorized,Unknown,80 Percent Arms
+Uncategorized,Unknown,CM Nationali
+Uncategorized,Unknown,Anthony Sailboat Co Shipping
+Uncategorized,Unknown,MV
+Uncategorized,Unknown,Costa de Coral Charter Boat Oyj Overseas
+Uncategorized,Unknown,Warner
+Uncategorized,Unknown,Alpha Brokersa
+Uncategorized,Unknown,Viktorâs
+Uncategorized,Unknown,Sea Seekers Merchants Cruise ship
+Uncategorized,Unknown,NFTs
+Uncategorized,Unknown,Cargo Systemsi
+Uncategorized,Unknown,Ocano del Este Corp Freight 
+Uncategorized,Unknown,Ronald
+Uncategorized,Unknown,C Express
+Uncategorized,Unknown,Znamensk Eel LLC United
+Uncategorized,Unknown,Sisdof/Sinaflor
+Uncategorized,Unknown,Spanish Shrimp Sp Brothers
+Uncategorized,Unknown,Tajima Industrues Ltd
+Uncategorized,Unknown,Zerzaâs
+Uncategorized,Unknown,IndÃºstria Madeireira Uliana
+Uncategorized,Unknown,Sms
+Uncategorized,Unknown,Semas 260 Rural
+Uncategorized,Unknown,Dolphin Dreams S.A. de C.V. Seafood
+Uncategorized,Unknown,All
+Uncategorized,Unknown,Cab Incorportated
+Uncategorized,Unknown,Sikkim S.A. de C.V.
+Uncategorized,Unknown,Yeezy
+Uncategorized,Unknown,Kagera River  Company Solutions
+Uncategorized,Unknown,Marmooska Shipyard Sagl United
+Uncategorized,Unknown,Leo
+Uncategorized,Unknown,W&O Supply
+Uncategorized,Unknown,Greek Sea Bream Limited Liability Company Transit
+Uncategorized,Unknown,David S.A. de C.V. Brothers
+Uncategorized,Unknown,Haryana s Ltd. Corporation Carriers
+Uncategorized,Unknown,Coral Reef Sagl Transport
+Uncategorized,Unknown,Felbab-Brown
+Uncategorized,Unknown,OzonActionâs
+Uncategorized,Unknown,âEntirely
+Uncategorized,Unknown,Ocano del Este SE
+Uncategorized,Unknown,Norwegian Shrimp N.V. -
+Uncategorized,Unknown,Malabar Sea Catch Sp
